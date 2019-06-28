@@ -1,0 +1,3 @@
+[submodule "beginner_nights"]
+	path = beginner_nights
+	url = https://github.com/BethanyG/beginner_nights
