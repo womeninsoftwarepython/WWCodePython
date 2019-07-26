@@ -4,3 +4,6 @@
 [submodule "WWCodePythonAutomate_the_Snippets"]
 	path = WWCodePythonAutomate_the_Snippets
 	url = https://github.com/BethanyG/WWCodePythonAutomate_the_Snippets.git
+[submodule "Py-Snippets"]
+	path = Py-Snippets
+	url = https://github.com/SaraM92/Py-Snippets.git
