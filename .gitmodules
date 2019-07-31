@@ -7,3 +7,6 @@
 [submodule "Py-Snippets"]
 	path = Py-Snippets
 	url = https://github.com/SaraM92/Py-Snippets.git
+[submodule "WWC-Python-Webinar-Titanic"]
+	path = WWC-Python-Webinar-Titanic
+	url = https://github.com/kunal-lalwani/WWC-Python-Webinar-Titanic.git
