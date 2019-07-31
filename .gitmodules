@@ -10,3 +10,6 @@
 [submodule "WWC-Python-Webinar-Titanic"]
 	path = WWC-Python-Webinar-Titanic
 	url = https://github.com/kunal-lalwani/WWC-Python-Webinar-Titanic.git
+[submodule "WWCode-python"]
+	path = WWCode-python
+	url = https://github.com/iris9112/WWCode-python
