@@ -40,5 +40,5 @@
 &nbsp;
 
 
-<a href="https://www.womenwhocode.com/python/about" <img width = 80% align="right" src="images/Website CTA.png"/>
+<a href="https://www.womenwhocode.com/python/about"><img width = 80% align="right" src="images/Website CTA.png"/>
 
