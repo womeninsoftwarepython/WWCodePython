@@ -1,4 +1,4 @@
-<img alt="Women Who Code Python Technical Track." align="left" src="images/Repo Heder Color.png"><br>
+<a href="https://www.womenwhocode.com"><img alt="Women Who Code Python Technical Track." align="left" src="images/Repo Heder Color.png"/><br>
 <br>
 &nbsp;&nbsp;&nbsp;
 <br>
@@ -24,7 +24,7 @@
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/kunal-lalwani/WWC-Python-Webinar-Titanic/tree/67c3742090a729a816b52d2114df727b18026017"><img alst="Titantic data set and python data science." align="left" src="images/titanic_logo.png"/>&nbsp;</td>
 <td colspan="3">
-<P?>Titanic Machine Learning webinar <b>7/30/2019</b>  <p><em>Do you want to rank in the top 10% in a Kaggle Competition?</em> Explore the Titanic Dataset & get a taste of Exploratory Analysis & Machine Learning Prediction with Python.</p> <em>- By Kunal Lalwani</em>
+<P?><b>Titanic Machine Learning webinar 7/30/2019</b>  <p><em>Do you want to rank in the top 10% in a Kaggle Competition?</em> Explore the Titanic Dataset & get a taste of Exploratory Analysis & Machine Learning Prediction with Python.</p> <em>- By Kunal Lalwani</em>
 </td>
 </tr>
 <tr>
@@ -40,5 +40,5 @@
 &nbsp;
 
 
-<img width = 80% align="right" src="images/Website CTA.png">
+<a href="https://www.womenwhocode.com/python/about" <img width = 80% align="right" src="images/Website CTA.png"/>
 
