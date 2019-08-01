@@ -1,4 +1,4 @@
-<a href="https://www.womenwhocode.com"><img alt="Women Who Code Python Technical Track." align="left" src="images/Repo Heder Color.png"/><br>
+<a href="https://www.womenwhocode.com"><img alt="Women Who Code Python Technical Track." align="left" src="images/Repo Heder Color.png"></a><br>
 <br>
 &nbsp;&nbsp;&nbsp;
 <br>
