@@ -32,7 +32,7 @@
 <td colspan="3"><b>Python Project Nights starting 7/16/2019</b> <p>Explore beginner projects with code samples & warm-up exercises.</p> <em>- By Bethany Garcia</em></td>
 </tr>
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/GabrielleRab/PyCon_2019/tree/a2572354d56e6489cf5785e63f3a0a161c5ccc92"><img alt="Using Jupyter, Pandas, and Matplotlib from PyCon 2019" src="images/Data Sci Logo.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/GabrielleRab/PyCon_2019/tree/a2572354d56e6489cf5785e63f3a0a161c5ccc92"><img alt="Using Jupyter, Pandas, and Matplotlib from PyCon 2019" src="images/Data Science Logo.png"/>&nbsp;</td>
 <td colspan="3"><b>Using Jupyter, Pandas & Matplotlib: PyCon 2019  <em>(re-broadcast 7/02/2019)</em></b> <p>Using Jupyter Notebook, Pandas, and Matplotlib to create a framework for teaching data science in a scientific context.  Download the presentation and resources here.</p> <em>- By Gabrielle Rabinowitz</em>
 </td>
 </tr>
