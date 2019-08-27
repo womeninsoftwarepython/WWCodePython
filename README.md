@@ -16,10 +16,16 @@
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/SaraM92/Py-Snippets/tree/e2f190e7407fa2b8ede20a67a501d53c4975a865"><img alt="py-snippets:  Python code snippets." align="left" src="images/Snippets_logo_II.png"/>&nbsp;</td>
-<td colspan="3"><b>Python Snippets</b>  <p>Check out our amazing & useful code examples.  <em>Increase your Python skills here!</p>- By Sara A. Metwalli</em>
+<td style="border: none;" align="left" width="20%"><a href=""><img alt="Data Manipulation with Pandas." align="left" src="images/Pandas_Liliana.png"/> &nbsp;</td>
+<td colspan="3"><br><b>Data Manipulation with Python Pandas.</b> <p>Come study all the delightful data and play with Pandas!  <br><em>Increase your Python data manipulation skills for fun and profit.</p>- By Liliana Torres</em>
 
 <br><br>
+
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/SaraM92/Py-Snippets/tree/e2f190e7407fa2b8ede20a67a501d53c4975a865"><img alt="py-snippets:  Python code snippets." align="left" src="images/Snippets_logo_II.png"/>&nbsp;</td>
+<td colspan="3"><br><b>Python Snippets</b>  <p>Check out our amazing & useful code examples.  <br><em>Increase your Python skills here!</p>- By Sara A. Metwalli</em>
+
+<br>
   
 <p><em><a href="https://https://thenounproject.com"><img src="/images/NounProject.png"></a>
 <a href="https://thenounproject.com/marialuisa.iborra/collection/scissors/?i=1999145#"><b>Scissors Icon</b></a><b> by Lluisa Iborra, </b> from The Noun Project. <a href="https://thenounproject.com"><b>thenounproject.com</b></em>  
@@ -29,7 +35,7 @@
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/kunal-lalwani/WWC-Python-Webinar-Titanic/tree/67c3742090a729a816b52d2114df727b18026017"><img alst="Titantic data set and python data science." align="left" src="images/titanic_logo.png"/>&nbsp;</td>
 <td colspan="3">
-<P?><b>Titanic Machine Learning webinar 7/30/2019</b>  <p><em>Do you want to rank in the top 10% in a Kaggle Competition?</em> Explore the Titanic Dataset & get a taste of Exploratory Analysis & Machine Learning Prediction with Python.</p> <em>- By Kunal Lalwani</em>
+<P?><br><b>Titanic Machine Learning webinar 7/30/2019</b>  <p><em>Do you want to rank in the top 10% in a Kaggle Competition?</em> Explore the Titanic Dataset & get a taste of Exploratory Analysis & Machine Learning Prediction with Python.</p> <em>- By Kunal Lalwani</em>
 
 <br><br>
 <a href="https://https://thenounproject.com"><img src="/images/NounProject.png"></a>
@@ -39,7 +45,7 @@
 
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/iris9112/WWCode-python/tree/a80034439d918866d1a27c9bba429a9281fe481c"><img alt="internationalization in Django." align="left" src="images/Internationalization.png"/>&nbsp;</td>
-<td colspan="3"><b>Taller Internacionalización con Django 7/24/2019</b>  <p>Aprende los conceptos relacionados con la internacionalización de aplicaciones web con ejemplo traducción del contenido estatico y dinamico de un sitio web.</p> <em>- Por Isabel Cristina Ruiz Buritica</em></td>
+<td colspan="3"><br><b>Taller Internacionalización con Django 7/24/2019</b>  <p>Aprende los conceptos relacionados con la internacionalización de aplicaciones web con ejemplo traducción del contenido estatico y dinamico de un sitio web.</p><br><em>- Por Isabel Cristina Ruiz Buritica</em></td>
 </tr>
 
 <tr>
@@ -49,7 +55,7 @@
 
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/GabrielleRab/PyCon_2019/tree/a2572354d56e6489cf5785e63f3a0a161c5ccc92"><img alt="Using Jupyter, Pandas, and Matplotlib from PyCon 2019" src="images/Data Science Logo.png"/>&nbsp;</td>
-<td colspan="3"><b>Using Jupyter, Pandas & Matplotlib: PyCon 2019  <em>(re-broadcast 7/02/2019)</em></b> <p>Using Jupyter Notebook, Pandas, and Matplotlib to create a framework for teaching data science in a scientific context.  Download the presentation and resources here.</p> <em>- By Gabrielle Rabinowitz</em>
+<td colspan="3"><br><b>Using Jupyter, Pandas & Matplotlib: PyCon 2019  <em>(re-broadcast 7/02/2019)</em></b> <p>Using Jupyter Notebook, Pandas, and Matplotlib to create a framework for teaching data science in a scientific context.  Download the presentation and resources here.</p> <em>- By Gabrielle Rabinowitz</em>
 </td>
 </tr>
 
