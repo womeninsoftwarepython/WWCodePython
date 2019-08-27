@@ -16,3 +16,6 @@
 [submodule "PyCon_2019"]
 	path = PyCon_2019
 	url = https://github.com/GabrielleRab/PyCon_2019
+[submodule "DataManipulationPandas"]
+	path = DataManipulationPandas
+	url = https://github.com/liliana3186/DataManipulationPandas
