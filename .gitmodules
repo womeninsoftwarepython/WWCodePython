@@ -19,3 +19,6 @@
 [submodule "DataManipulationPandas"]
 	path = DataManipulationPandas
 	url = https://github.com/liliana3186/DataManipulationPandas
+[submodule "emoji_predictor"]
+	path = emoji_predictor
+	url = https://github.com/alexg-171/emoji_predictor.git
