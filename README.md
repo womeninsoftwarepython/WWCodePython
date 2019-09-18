@@ -16,6 +16,20 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href=""><img alt="Emoji Predictor with Macine Learning" align="left" src="images/Emoji Detector.png"/> &nbsp;</td>
+<td colspan="3"><br><b>✨Emoji Predictor with Machine Learning✨</b> 
+<br><br>
+<p>Python:exclamation:Python:exclamation:Python:exclamation:
+<br>  
+Let me show you how to use SciKit to do an Emoji :laughing: :open_mouth: :grin: Predictor with a little Machine Learning  & Python. 🌈 Learn a few ML & NLP (Natural Language Processing) core concepts ........<em>We do it because we <b>can</b>.:star:</em></p>
+
+<em>- by Alex Gamez, Software Engineer @ Lockheed Martin Aeronautics :rocket:</em>
+
+<br><br>
+
+<tr>
+  
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/liliana3186/DataManipulationPandas/tree/9e9979f5c8033021f725fa2939300a80a68f4a08"><img alt="Data Manipulation with Pandas." align="left" src="images/Pandas_Liliana.png"/> &nbsp;</td>
 <td colspan="3"><br><b>Data Manipulation with Python Pandas.</b> <p>Come study all the delightful data and play with Pandas!  <br><em>Increase your Python data manipulation skills for fun and profit.</p>- By Liliana Torres</em>
 
