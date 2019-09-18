@@ -63,7 +63,7 @@ Let me show you how to use SciKit to do an Emoji :laughing: :open_mouth: :grin: 
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/beginner_nights/tree/c7ea963d14deeef2de0a1b5f33ec9706b22e2e7a"><img alt="beginner nights project walk-throughs." align="left" src="images/Beginner_Nights_Logo.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/beginner_nights/tree/master/tictactoe"><img alt="beginner nights project walk-throughs." align="left" src="images/Beginner_Nights_Logo.png"/>&nbsp;</td>
 <td colspan="3"><b>Python Project Nights starting 7/16/2019</b> <p>Explore beginner projects with code samples & warm-up exercises.</p> <em>- By Bethany Garcia</em></td>
 </tr>
 
