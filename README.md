@@ -30,7 +30,7 @@ Let me show you how to use SciKit to do an Emoji :laughing: :open_mouth: :grin: 
 <tr>
   
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/liliana3186/DataManipulationPandas/tree/9e9979f5c8033021f725fa2939300a80a68f4a08"><img alt="Data Manipulation with Pandas." align="left" src="images/Pandas_Liliana.png"/> &nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/liliana3186/DataManipulationPandas/tree/a1d964b18f9540058ba2c6884baba26b60abee88"><img alt="Data Manipulation with Pandas." align="left" src="images/Pandas_Liliana.png"/> &nbsp;</td>
 <td colspan="3"><br><b>Data Manipulation with Python Pandas.</b> <p>Come study all the delightful data and play with Pandas!  <br><em>Increase your Python data manipulation skills for fun and profit.</p>- By Liliana Torres</em>
 
 <br><br>
