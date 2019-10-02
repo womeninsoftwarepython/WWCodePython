@@ -16,6 +16,14 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href=""><img alt="Getting Started with Numpy" align="left" src="images/Getting_Started_with_Numpy.png"/> &nbsp;</td>
+<td colspan="3"><br><b>Getting Started with Numpy</b> 
+<br>
+<p>Python, data, matrices, transformations & all things Numpy!  Join Yashika as she covers the basics of this powerful & essential Data Science library that underpins Pandas, Matplotlib, Seaborn, & many many others.</p>
+  
+<em>- by Yashika Sharma</em>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/alexg-171/emoji_predictor/tree/0fa6058e70471a4dd969599ccbc039f07aa682dc"><img alt="Emoji Predictor with Macine Learning" align="left" src="images/Emoji Detector.png"/> &nbsp;</td>
 <td colspan="3"><br><b>✨Emoji Predictor with Machine Learning✨</b> 
 <br><br>
