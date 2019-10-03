@@ -22,3 +22,6 @@
 [submodule "emoji_predictor"]	
 	path = emoji_predictor	
 	url = https://github.com/alexg-171/emoji_predictor.git	
+[submodule "Get-Started-with-NumPy"]
+	path = Get-Started-with-NumPy
+	url = https://github.com/yashika51/Get-Started-with-NumPy.git
