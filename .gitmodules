@@ -13,6 +13,8 @@
 [submodule "WWCode-python"]	
 	path = WWCode-python	
 	url = https://github.com/iris9112/WWCode-python	
+	path = WWCode-Python
+	url = git@https://github.com/yashika51/WWCode-Python
 [submodule "PyCon_2019"]	
 	path = PyCon_2019	
 	url = https://github.com/GabrielleRab/PyCon_2019	
