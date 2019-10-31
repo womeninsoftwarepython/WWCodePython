@@ -1,0 +1,115 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Respiratory Buddy</title>
+    <meta
+      name="description"
+      content="particles.js is a lightweight JavaScript library for creating particles."
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <link rel="stylesheet" media="screen" href="css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=PT+Sans:400i"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.min.js"
+      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+      integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="css/custom.css" />
+    <title>Respiratory Buddy</title>
+  </head>
+  <body id="main">
+    <div id="particles-js" class="container">
+      <div class="round-box">
+        <div class="row">
+          <br /><br />
+          <div class="col-lg-2"></div>
+          <div class="col-lg-8">
+            <h1 >Respiratory Buddy</h1>
+          </div>
+          <div class="col-lg-2"></div>
+        </div>
+        <div class="row">
+          <br /><br />
+          <div class="col-lg-2"></div>
+          <div class="col-lg-8">
+            <div class="input-group">
+              <input
+                id="img_url"
+                type="text"
+                class="form-control"
+                placeholder="Enter Image Url"
+              />
+              <span class="input-group-btn">
+                <button id="btn_search" class="btn btn-primary" type="button">
+                  Go!
+                </button>
+              </span>
+            </div>
+            <br /><br />
+            <div class="col-lg-6">
+              <img
+                id="img"
+                src="cinqueterre.jpg"
+                class="img-responsive"
+                alt="No Image Found"
+              />
+            </div>
+            <div class="col-lg-6">
+              <div id="loading" style="color:white">Inhale . . . Exhale. . . Computing</div>
+              <table id="table" style="color:white" class="table"></table>
+            </div>
+          </div>
+          <div class="col-lg-2"></div>
+        </div>
+      </div>
+    </div>
+    <script src="js/main_url.js"></script>
+    <!-- particles.js container -->
+
+    <!-- scripts -->
+    <script src="../particles.js"></script>
+    <script src="js/app.js"></script>
+
+    <!-- stats.js -->
+    <script>
+      var count_particles, stats, update;
+      stats = new Stats();
+      stats.setMode(0);
+      stats.domElement.style.position = "absolute";
+      stats.domElement.style.left = "0px";
+      stats.domElement.style.top = "0px";
+      document.body.appendChild(stats.domElement);
+      count_particles = document.querySelector(".js-count-particles");
+      update = function() {
+        stats.begin();
+        stats.end();
+        if (
+          window.pJSDom[0].pJS.particles &&
+          window.pJSDom[0].pJS.particles.array
+        ) {
+          count_particles.innerText =
+            window.pJSDom[0].pJS.particles.array.length;
+        }
+        requestAnimationFrame(update);
+      };
+      requestAnimationFrame(update);
+    </script>
+  </body>
+</html>

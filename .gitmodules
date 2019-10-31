@@ -25,3 +25,6 @@
 [submodule "Get-Started-with-NumPy"]
 	path = Get-Started-with-NumPy
 	url = https://github.com/yashika51/Get-Started-with-NumPy.git
+[submodule "respiratory-buddy"]
+	path = respiratory-buddy
+	url = https://github.com/BethanyG/respiratory-buddy
