@@ -16,6 +16,15 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/respiratory-buddy"><img alt="Diagnosing lungh conditions with Pthon and CNNs" align="left" src="images/lung_condition_prediction.png"/> &nbsp;</td>
+<td colspan="3"><br><b>A Walk-throug of Respiratory Buddy</b> 
+<br>
+<p>A Web Application helping Doctors & medical personnel detect & diagnose Respiratory/Lung Diseases using CXR <i>(X-Ray data)</i> images.  <br><br>A  Strictly Medical Machine-Learning based solution with a special implementation of a CNN <i>(convolutional neural network)</i>.</p>
+  
+<em>- by Vishwa Mehta</em>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/yashika51/Get-Started-with-NumPy/tree/f5760faa734b369757864f1e192e2813e4391c12"><img alt="Getting Started with Numpy" align="left" src="images/Getting_Started_with_Numpy.png"/> &nbsp;</td>
 <td colspan="3"><br><b>Getting Started with Numpy</b> 
 <br>
