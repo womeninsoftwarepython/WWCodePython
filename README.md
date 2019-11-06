@@ -11,6 +11,13 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href=""><img alt="ML Mondays study group."align="left" src="images/ML Mondays_II.png"/>&nbsp;</td>
+<td colspan="3"><b>ML Mondays</b>  <p>Join us alternating <b>Mondays</b> for a wholesome & healthy dose of <b>ML 🌟</b>.  -- Starting off with a whirlwind review of Python & then diving into foundational libraries.  
+  <br><br> 
+We'll also be discussing the ideas behind ML and covering a little ✨math & statistics✨🎉.  As we journey further along, we'll collaborate & help one another with projects & other fun 🔥 stuff.</p><em>- By Yashika Sharma</em></td>
+</tr>
+
+tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/WWCodePythonAutomate_the_Snippets"><img alt="automate the boring stuff with python study group."align="left" src="images/Automate_logo_bot.png"/>&nbsp;</td>
 <td colspan="3"><b>Automate Boring Stuff</b>  <p>Join us <b>Thursdays</b> to discuss <a href="https://automatetheboringstuff.com/"> Automate the Boring Stuff With Python</a>:  &nbsp; A friendly forum where we can ask questions, provide feedback & help each other with our coding journey. <em>Explore our code & notes for each chapter here!</p>- By Jamila Evilsizor</em></td>
 </tr>
