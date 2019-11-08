@@ -18,11 +18,6 @@ We'll also be discussing the ideas behind ML and covering a little ✨math & sta
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/WWCodePythonAutomate_the_Snippets"><img alt="automate the boring stuff with python study group."align="left" src="images/Automate_logo_bot.png"/>&nbsp;</td>
-<td colspan="3"><b>Automate Boring Stuff</b>  <p>Join us <b>Thursdays</b> to discuss <a href="https://automatetheboringstuff.com/"> Automate the Boring Stuff With Python</a>:  &nbsp; A friendly forum where we can ask questions, provide feedback & help each other with our coding journey. <em>Explore our code & notes for each chapter here!</p>- By Jamila Evilsizor</em></td>
-</tr>
-
-<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/respiratory-buddy"><img alt="Diagnosing lungh conditions with Pthon and CNNs" align="left" src="images/lung_condition_prediction.png"/> &nbsp;</td>
 <td colspan="3"><br><b>A Walk-throug of Respiratory Buddy</b> 
 <br>
@@ -60,17 +55,6 @@ Let me show you how to use SciKit to do an Emoji :laughing: :open_mouth: :grin: 
 <br><br>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/SaraM92/Py-Snippets/tree/e2f190e7407fa2b8ede20a67a501d53c4975a865"><img alt="py-snippets:  Python code snippets." align="left" src="images/Snippets_logo_II.png"/>&nbsp;</td>
-<td colspan="3"><br><b>Python Snippets</b>  <p>Check out our amazing & useful code examples.  <br><em>Increase your Python skills here!</p>- By Sara A. Metwalli</em>
-
-<br>
-  
-<p><em><a href="https://https://thenounproject.com"><img src="/images/NounProject.png"></a>
-<a href="https://thenounproject.com/marialuisa.iborra/collection/scissors/?i=1999145#"><b>Scissors Icon</b></a><b> by Lluisa Iborra, </b> from The Noun Project. <a href="https://thenounproject.com"><b>thenounproject.com</b></em>  
-</td>
-</tr>
-
-<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/kunal-lalwani/WWC-Python-Webinar-Titanic/tree/67c3742090a729a816b52d2114df727b18026017"><img alst="Titantic data set and python data science." align="left" src="images/titanic_logo.png"/>&nbsp;</td>
 <td colspan="3">
 <P?><br><b>Titanic Machine Learning webinar 7/30/2019</b>  <p><em>Do you want to rank in the top 10% in a Kaggle Competition?</em> Explore the Titanic Dataset & get a taste of Exploratory Analysis & Machine Learning Prediction with Python.</p> <em>- By Kunal Lalwani</em>
@@ -87,16 +71,20 @@ Let me show you how to use SciKit to do an Emoji :laughing: :open_mouth: :grin: 
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/beginner_nights/tree/master/tictactoe"><img alt="beginner nights project walk-throughs." align="left" src="images/Beginner_Nights_Logo.png"/>&nbsp;</td>
-<td colspan="3"><b>Python Project Nights starting 7/16/2019</b> <p>Explore beginner projects with code samples & warm-up exercises.</p> <em>- By Bethany Garcia</em></td>
-</tr>
-
-<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/GabrielleRab/PyCon_2019/tree/a2572354d56e6489cf5785e63f3a0a161c5ccc92"><img alt="Using Jupyter, Pandas, and Matplotlib from PyCon 2019" src="images/Data Science Logo.png"/>&nbsp;</td>
 <td colspan="3"><br><b>Using Jupyter, Pandas & Matplotlib: PyCon 2019  <em>(re-broadcast 7/02/2019)</em></b> <p>Using Jupyter Notebook, Pandas, and Matplotlib to create a framework for teaching data science in a scientific context.  Download the presentation and resources here.</p> <em>- By Gabrielle Rabinowitz</em>
 </td>
 </tr>
 
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/WWCodePythonAutomate_the_Snippets"><img alt="automate the boring stuff with python study group."align="left" src="images/Automate_logo_bot.png"/>&nbsp;</td>
+<td colspan="3"><b>Automate Boring Stuff</b>  <p><a href="https://automatetheboringstuff.com/"> Automate the Boring Stuff With Python</a>:  &nbsp; A friendly forum where we can ask questions, provide feedback & help each other with our coding journey. <em>Explore our code & notes for each chapter here!</p>- By Jamila Evilsizor</em></td>
+</tr>
+
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/beginner_nights/tree/master/tictactoe"><img alt="beginner nights project walk-throughs." align="left" src="images/Beginner_Nights_Logo.png"/>&nbsp;</td>
+<td colspan="3"><b>Python Project Nights</b> <p>Explore beginner projects with code samples & warm-up exercises.</p> <em>- By Bethany Garcia</em></td>
+</tr>
 
 </tbody>
 </table>
