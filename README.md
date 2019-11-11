@@ -11,7 +11,7 @@
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href=""><img alt="ML Mondays study group."align="left" src="images/ML Mondays_II.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/ML_Mondays_WWCodePython/tree/a3eb1be69a9ecaa76dcbc685e4c58cdd00db833b"><img alt="ML Mondays study group."align="left" src="images/ML Mondays_II.png"/>&nbsp;</td>
 <td colspan="3"><b>ML Mondays</b>  <p>Join us alternating <b>Mondays</b> for a wholesome & healthy dose of <b>ML 🌟</b>.  -- Starting off with a whirlwind review of Python & then diving into foundational libraries.  
   <br><br> 
 We'll also be discussing the ideas behind ML and covering a little ✨math & statistics✨🎉.  As we journey further along, we'll collaborate & help one another with projects & other fun 🔥 stuff.</p><em>- By Yashika Sharma</em></td>
