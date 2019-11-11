@@ -18,13 +18,19 @@ We'll also be discussing the ideas behind ML and covering a little ✨math & sta
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href=""><img alt="PySpark Part I."align="left" src="images/Pyspark Talk Part 1.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u"><img alt="PySpark Part I."align="left" src="images/Pyspark Talk Part 1.png"/>&nbsp;</td>
 
 <td colspan="3"><br><b>ETL Made Simple with PySpark (part I)</b>  <p>Apache Spark is currently one of the most popular systems for large-scale data processing - making it a standard for any developer or data scientist interested in big data. Spark supports multiple widely used programming languages(Scala, Python, R, Java) and a wealth of built-in and third-party libraries.</p>
   
 <br>
 
-<p>In this session you will be introduced to Apache Spark main concepts & you'll learn how to leverage the DataFrame API to extract data. You will also learn how to connect to different sources, apply schemas when reading data, and handle corrupt records.</p><em>- By Aida Martinez</em></td>
+<p>In this session you will be introduced to Apache Spark main concepts & you'll learn how to leverage the DataFrame API to extract data. You will also learn how to connect to different sources, apply schemas when reading data, and handle corrupt records.
+
+<b>PART I:</b>   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u)
+
+</p><em>- By Aida Martinez</em>  
+
+</td>  
 </tr>
 
 <tr>
