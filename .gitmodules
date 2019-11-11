@@ -28,3 +28,6 @@
 [submodule "respiratory-buddy"]
 	path = respiratory-buddy
 	url = https://github.com/BethanyG/respiratory-buddy
+[submodule "ML_Mondays_WWCodePython"]
+	path = ML_Mondays_WWCodePython
+	url = https://github.com/BethanyG/ML_Mondays_WWCodePython
