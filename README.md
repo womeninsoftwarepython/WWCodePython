@@ -18,15 +18,22 @@ We'll also be discussing the ideas behind ML and covering a little ✨math & sta
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u"><img alt="PySpark Part I."align="left" src="images/Pyspark Talk Part 1.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u"><img alt="PySpark Part I."align="left" src="images/Pyspark Talk Part 1.png"/> &nbsp;
+  <a href="https://colab.research.google.com/drive/1T3bimqE9-OX4gSW4Zfjo3HjI-xPXBdK9"><img alt="PySpark Part II."align="left" src="images/Pyspark Talk Part 2.png"/>&nbsp;</td>
 
-<td colspan="3"><br><b>ETL Made Simple with PySpark (part I)</b>  <p>Apache Spark is currently one of the most popular systems for large-scale data processing - making it a standard for any developer or data scientist interested in big data. Spark supports multiple widely used programming languages(Scala, Python, R, Java) and a wealth of built-in and third-party libraries.</p>
+<td colspan="3"><br><b>ETL Made Simple with PySpark (parts I & II)</b>  <p>Apache Spark is currently one of the most popular systems for large-scale data processing - making it a standard for any developer or data scientist interested in big data. Spark supports multiple widely used programming languages(Scala, Python, R, Java) and a wealth of built-in and third-party libraries.</p>
   
 <br>
 
-<p>In this session you will be introduced to Apache Spark main concepts & you'll learn how to leverage the DataFrame API to extract data. You will also learn how to connect to different sources, apply schemas when reading data, and handle corrupt records.
+<p>In <b>Session I</b> you will be introduced to Apache Spark main concepts & you'll learn how to leverage the DataFrame API to extract data. You will also learn how to connect to different sources, apply schemas when reading data, and handle corrupt records.
+  
+In <b>session II</b> you will be introduced to some of the most useful transformations - adding new columns, casting column types, renaming columns, etc. You'll also learn how to define User Defined Functions to do your own custom transformations & a get a little introduction to executing your own ad hoc SQL!
+
+<br>
 
 <b>PART I:</b>   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u)
+
+<b>PART II:</b>   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T3bimqE9-OX4gSW4Zfjo3HjI-xPXBdK9)
 
 </p><em>- By Aida Martinez</em>  
 
