@@ -11,28 +11,41 @@
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/ML_Mondays_WWCodePython/tree/e8f9dfebbc6d124f491f21f8147a77c3f06c804d"><img alt="ML Mondays study group."align="left" src="images/ML Mondays_II.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20><ahref="https://github.com/BethanyG/ML_Mondays_WWCodePython/tree/e8f9dfebbc6d124f491f21f8147a77c3f06c804d"><img alt="ML Mondays study group."align="left" src="images/ML Mondays_II.png"/>&nbsp;
+  </td>
 <td colspan="3"><b>ML Mondays</b>  <p>Join us alternating <b>Mondays</b> for a wholesome & healthy dose of <b>ML 🌟</b>.  -- Starting off with a whirlwind review of Python & then diving into foundational libraries.  
   <br><br> 
 We'll also be discussing the ideas behind ML and covering a little ✨math & statistics✨🎉.  As we journey further along, we'll collaborate & help one another with projects & other fun 🔥 stuff.</p><em>- By Yashika Sharma</em></td>
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><ahref="https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u"><img alt="PySpark Part I."align="left" src="images/Pyspark Talk Part 1.png"/> &nbsp;  
+<td style="border: none;" align="left" width="20%"<a href="https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u"><img alt="PySpark Part I."align="left" src="images/Pyspark Talk Part 1.png"/> 
+
+<br>
   
-<a href="https://colab.research.google.com/drive/1T3bimqE9-OX4gSW4Zfjo3HjI-xPXBdK9"><img alt="PySpark Part II."align="left" src="images/Pyspark Talk Part 2.png"/>&nbsp;  
+<ahref="https://colab.research.google.com/drive/1T3bimqE9-OX4gSW4Zfjo3HjI-xPXBdK9"><img alt="PySpark Part II."align="left" src="images/Pyspark Talk Part 2.png"/>
   
-<a href="https://colab.research.google.com/drive/1x3HcVAs9HpUMgCGfbRfdq--6IQII0Fn5"><img alt="PySpark Part III."align="left" src="images/Pyspark Talk Part 3.png"/>&nbsp;</td>
+<br>
+  
+<ahref="https://colab.research.google.com/drive/1x3HcVAs9HpUMgCGfbRfdq--6IQII0Fn5"><img alt="PySpark Part III."align="left" src="images/Pyspark Talk Part 3.png"/>
+  
+<br>
 
 <td colspan="3"><br><b>ETL Made Simple with PySpark</b>  <p>Apache Spark is currently one of the most popular systems for large-scale data processing - making it a standard for any developer or data scientist interested in big data. Spark supports multiple widely used programming languages(Scala, Python, R, Java) and a wealth of built-in and third-party libraries.</p>
   
 <br>
 
-<p>In <b>Session I</b> you will be introduced to Apache Spark main concepts & you'll learn how to leverage the DataFrame API to extract data. You will also learn how to connect to different sources, apply schemas when reading data, and handle corrupt records.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u)
+<p>In <b>Session I</b> you will be introduced to Apache Spark main concepts & you'll learn how to leverage the DataFrame API to extract data. You will also learn how to connect to different sources, apply schemas when reading data, and handle corrupt records.
   
-In <b>session II</b> you will be introduced to some of the most useful transformations - adding new columns, casting column types, renaming columns, etc. You'll also learn how to define User Defined Functions to do your own custom transformations & a get a little introduction to executing your own ad hoc SQL!  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T3bimqE9-OX4gSW4Zfjo3HjI-xPXBdK9)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u)
+  
+In <b>session II</b> you will be introduced to some of the most useful transformations - adding new columns, casting column types, renaming columns, etc. You'll also learn how to define User Defined Functions to do your own custom transformations & a get a little introduction to executing your own ad hoc SQL!  
 
-In <b>session III</b> you'll analyze the robberies data by doing some aggregations & sorting. You'll learn how to convert Spark DataFrames to Pandas DataFrames. Additionally, you'll explore joins & lookup tables & write final results to CSV files. At the end of this session we'll go over best practices. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x3HcVAs9HpUMgCGfbRfdq--6IQII0Fn5)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T3bimqE9-OX4gSW4Zfjo3HjI-xPXBdK9)
+
+In <b>session III</b> you'll analyze the robberies data by doing some aggregations & sorting. You'll learn how to convert Spark DataFrames to Pandas DataFrames. Additionally, you'll explore joins & lookup tables & write final results to CSV files. At the end of this session we'll go over best practices. 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x3HcVAs9HpUMgCGfbRfdq--6IQII0Fn5)
 
 <br>
 
