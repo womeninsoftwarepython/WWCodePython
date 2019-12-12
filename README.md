@@ -18,6 +18,17 @@ We'll also be discussing the ideas behind ML and covering a little ✨math & sta
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/SteeleAlloy/edaworkshop"><img alt="Exploratory Data Analysis"align="left" src="images/EDA.png"/>&nbsp;</td>
+<td colspan="3"><b>I've Got the Data, Now What?</b>
+  <br>
+  <em>Exploratory Data Analysis(EDA) with Python & Pandas</em>  
+  <br><br>
+  <p>Have you ever started a data science project and not known what to do next? Are you just curious about what a data scientist <em>actually</em> spends most of their time doing? <br><br>Join us to learn all about Exploratory Data Analysis <b>(EDA)</b> - the process of cleaning, organizing, & understanding your data. <br><br>During this talk we'll be covering how to import & organize data with pandas, make beautiful visualizations using Seaborn, & use some core Python as well! 🌟 
+  <br><br> 
+<em>- By Ashley Steele</em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u"><img alt="PySpark Part I."align="left" src="images/Pyspark Talk Part 1.png"/>
   <a href="https://colab.research.google.com/drive/1T3bimqE9-OX4gSW4Zfjo3HjI-xPXBdK9"><img alt="PySpark Part II."align="left" src="images/Pyspark Talk Part 2.png"/>
   <a href="https://colab.research.google.com/drive/1T3bimqE9-OX4gSW4Zfjo3HjI-xPXBdK9"><img alt="PySpark Part II." align="left" src="images/Pyspark Talk Part 3.png"/>
