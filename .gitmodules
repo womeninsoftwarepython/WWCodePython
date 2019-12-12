@@ -31,3 +31,6 @@
 [submodule "ML_Mondays_WWCodePython"]
 	path = ML_Mondays_WWCodePython
 	url = https://github.com/BethanyG/ML_Mondays_WWCodePython
+[submodule "edaworkshop"]
+	path = edaworkshop
+	url = https://github.com/SteeleAlloy/edaworkshop.git
