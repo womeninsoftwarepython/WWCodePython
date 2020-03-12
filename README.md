@@ -11,10 +11,39 @@
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/ML_Mondays_WWCodePython"><img alt="ML Mondays study group."align="left" src="images/ML Mondays_II.png"/>&nbsp;</td>
-<td colspan="3"><b>ML Mondays</b>  <p>Join us alternating <b>Mondays</b> for a wholesome & healthy dose of <b>ML 🌟</b>.  -- Starting off with a whirlwind review of Python & then diving into foundational libraries.  
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/AndyLPK247/tau-intro-selenium-py"><img alt="Tau-Intro-Selenium-Py"align="left" src="images/automation%20panda.png"/>&nbsp;</td>
+<td colspan="3"><b>Beyond Unit Tests: End to End Web UI Testing <br>(or <i>Testing google forms, and how much I hate it</i>)</b> 
+  <br><br>
+
+Unit tests are great, but they don’t catch all bugs because they don’t test features like a user. However, Web UI tests are complicated & notoriously unreliable. So, how can we write tests well? Never fear! :star2: :star2: :star2: 
+
+Let’s learn how to write robust, scalable Web UI tests using Python, pytest, & Selenium WebDriver that cover the full stack for **any** Web app. In this talk, we'll write one simple test together that covers DuckDuckGo searching:
+
+- Using Selenium WebDriver like a pro
+- Modeling Web UI interactions in Python code
+- Writing “good” feature tests that are efficient, robust, and readable
+- Deciding what should and should not be tested with automation
+
+After this talk, you’ll know how to write battle-hardened Web UI tests for **any** Web app, including Django & Flask apps. Example code will be supplied on GitHub, as well as plenty of hands-on tutorials & resources to continue learning after the talk.
   <br><br> 
-We'll also be discussing the ideas behind ML and covering a little ✨math & statistics✨🎉.  As we journey further along, we'll collaborate & help one another with projects & other fun 🔥 stuff.</p><em>- By Yashika Sharma</em></td>
+<em>- By Andrew Knight</em></td>
+</tr>
+
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/parulnith/Elements-of-Functional-Programming-in-Python"><img alt="Live Coding with Lambda, Map, Filter and Reduce"align="left" src="images/code_lambda_II.png"/>&nbsp;</td>
+<td colspan="3"><b>Programming with Lambda, Map, Filter & Reduce</b> 
+  <br><br>
+
+Most of the time, Python is seen as **object-oriented** -- a style where we model our data in the form of **classes**, **objects**, & **methods**.  But Python supports alternatives to that **OOP** paradigm -- **Functional Programming** being a very popular choice.  
+
+Functions like **lambda** , **filter**,  **map**,  &  **reduce** fully support the Functional Programming style & in this live coding session we'll demonstrate how they can be effectively & efficiently used in our data analysis tasks. 
+
+
+**Here are some good reads on Functional Programming, to get your started :**
+1. [**Don't be Scared of Functional Programming**](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/)
+2. [**Functional Programming (Python Docs)**](https://docs.python.org/3.7/howto/functional.html) 
+  <br><br> 
+<em>- By Parul Pandey</em></td>
 </tr>
 
 <tr>
@@ -117,6 +146,13 @@ Let me show you how to use SciKit to do an Emoji :laughing: :open_mouth: :grin: 
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/GabrielleRab/PyCon_2019/tree/a2572354d56e6489cf5785e63f3a0a161c5ccc92"><img alt="Using Jupyter, Pandas, and Matplotlib from PyCon 2019" src="images/Data Science Logo.png"/>&nbsp;</td>
 <td colspan="3"><br><b>Using Jupyter, Pandas & Matplotlib: PyCon 2019  <em>(re-broadcast 7/02/2019)</em></b> <p>Using Jupyter Notebook, Pandas, and Matplotlib to create a framework for teaching data science in a scientific context.  Download the presentation and resources here.</p> <em>- By Gabrielle Rabinowitz</em>
 </td>
+</tr>
+
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/ML_Mondays_WWCodePython"><img alt="ML Mondays study group."align="left" src="images/ML Mondays_II.png"/>&nbsp;</td>
+<td colspan="3"><b>ML Mondays</b>  <p>Join us alternating <b>Mondays</b> for a wholesome & healthy dose of <b>ML 🌟</b>.  -- Starting off with a whirlwind review of Python & then diving into foundational libraries.  
+  <br><br> 
+We'll also be discussing the ideas behind ML and covering a little ✨math & statistics✨🎉.  As we journey further along, we'll collaborate & help one another with projects & other fun 🔥 stuff.</p><em>- By Yashika Sharma</em></td>
 </tr>
 
 <tr>
