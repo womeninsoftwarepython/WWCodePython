@@ -15,16 +15,16 @@
 <td colspan="3"><b>Beyond Unit Tests: End to End Web UI Testing <br>(or <i>Testing google forms, and how much I hate it</i>)</b> 
   <br><br>
 
-Unit tests are great, but they don’t catch all bugs because they don’t test features like a user. However, Web UI tests are complicated & notoriously unreliable. So, how can we write tests well? Never fear! :star2: :star2: :star2: 
+Unit tests are great, but they don’t catch all bugs because they don’t test features like a user -- but Web UI tests are complicated & notoriously unreliable. How can we write tests that do the job well? Never fear! :star2: :star2: :star2: 
 
-Let’s learn how to write robust, scalable Web UI tests using Python, pytest, & Selenium WebDriver that cover the full stack for **any** Web app. In this talk, we'll write one simple test together that covers DuckDuckGo searching:
+Let’s learn how to write robust, scalable Web UI tests using Python, pytest, & Selenium WebDriver that cover the full stack for **any** Web app:
 
 - Using Selenium WebDriver like a pro
 - Modeling Web UI interactions in Python code
 - Writing “good” feature tests that are efficient, robust, and readable
 - Deciding what should and should not be tested with automation
 
-After this talk, you’ll know how to write battle-hardened Web UI tests for **any** Web app, including Django & Flask apps. Example code will be supplied on GitHub, as well as plenty of hands-on tutorials & resources to continue learning after the talk.
+In this talk, we'll write one simple test together that covers DuckDuckGo searching.  Afterwards, you’ll know how to write battle-hardened Web UI tests for **any** Web app, including Django & Flask apps. Example code will be supplied on GitHub, as well as plenty of hands-on tutorials & resources to continue learning!
   <br><br> 
 <em>- By Andrew Knight</em></td>
 </tr>
