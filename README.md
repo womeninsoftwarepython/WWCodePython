@@ -160,11 +160,6 @@ We'll also be discussing the ideas behind ML and covering a little ✨math & sta
 <td colspan="3"><b>Automate Boring Stuff</b>  <p><a href="https://automatetheboringstuff.com/"> Automate the Boring Stuff With Python</a>:  &nbsp; A friendly forum where we can ask questions, provide feedback & help each other with our coding journey. <em>Explore our code & notes for each chapter here!</p>- By Jamila Evilsizor</em></td>
 </tr>
 
-<tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/BethanyG/beginner_nights/tree/master/tictactoe"><img alt="beginner nights project walk-throughs." align="left" src="images/Beginner_Nights_Logo.png"/>&nbsp;</td>
-<td colspan="3"><b>Python Project Nights</b> <p>Explore beginner projects with code samples & warm-up exercises.</p> <em>- By Bethany Garcia</em></td>
-</tr>
-
 </tbody>
 </table>
 
