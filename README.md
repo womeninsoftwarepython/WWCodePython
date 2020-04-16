@@ -11,6 +11,19 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/ShreyaKhurana/wwc/tree/master"><img alt="NLP Contextual Word Embeddings"align="left" src="images/NLP_logo.jpg"/>&nbsp;</td>
+<td colspan="3"><b>NLP Contextual Word Embeddings</b> 
+  <br><br>
+Language representations and embeddings are an important step in developing machine learning models for Natural Language Processing. They are used for various language problems - Named entity recognition, POS tagging, sentiment analysis or language understanding and generation. 
+
+While traditional encodings to convert words and sentences to vectors were more intuitive, static embeddings were developed to incorporate a large vocabulary and corpus and eliminating the problem of sparse vectors. Since then, we’ve seen methods like word2vec, GloVe and now contextual embeddings are the norm - Elmo and now the state-of-the-art BERT.
+
+In this talk, we’ll be covering how to create these embeddings with a focus on the most recent development - BERT, using the HuggingFace Transformers Library. We shall also cover how we can obtain BERT multilingual embeddings and how these embeddings are useful in a seq2seq network - which is a specific type of neural architecture to convert sequence of words or characters to another sequence
+  <br><br> 
+<em>- By Shreya Khurana</em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/AndyLPK247/tau-intro-selenium-py"><img alt="Tau-Intro-Selenium-Py"align="left" src="images/automation%20panda.png"/>&nbsp;</td>
 <td colspan="3"><b>Beyond Unit Tests: End to End Web UI Testing <br>(or <i>Testing google forms, and how much I hate it</i>)</b> 
   <br><br>
