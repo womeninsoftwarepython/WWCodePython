@@ -10,6 +10,18 @@
 <td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repos content.  Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/jiaqi216/fuzzy-search-talk"><img alt="Fuzzy Search Algorithms"align="left" src="images/GitHub_Fuzzy_Search_Algorithm.png"/>&nbsp;</td>
+<td colspan="3"><b>Fuzzy Search Algorithms: When and How to Use Them</b> 
+  <br><br>
+Fuzzy Searching or approximate string matching is powerful because often text data is messy. For example, shorthand and abbreviated text are common in various data sets. In addition, outputs from OCR or voice to text conversions tend to be messy or imperfect. Thus, we want to be able to make the most of our data by extrapolating as much information as possible.
+In this talk, we will explore the various approaches used in fuzzy string matching and demonstrate how they can be used as a feature in a model or a component in your python code. We will dive deep into the approaches of different algorithms such as Soundex, Trigram/n-gram search, and Levenshtein distances and what the best use cases are. We will also discuss situations where it’s important to take into account the meaning or intent of a word and demonstrate approaches for measuring semantic similarity using nltk and word2vec. Furthermore, we will demonstrate via live coding how to implement some of these fuzzy search algorithms using python and/or built-in fuzzy search functions within PostgreSQL.
+  <br><br> 
+<em>- By Jiaqi Liu</em></td>
+</tr>
+
+
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/ShreyaKhurana/wwc/tree/master"><img alt="NLP Contextual Word Embeddings"align="left" src="images/NLP_logo.jpg"/>&nbsp;</td>
 <td colspan="3"><b>NLP Contextual Word Embeddings</b> 
