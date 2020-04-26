@@ -12,7 +12,7 @@
 
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/jiaqi216/fuzzy-search-talk"><img alt="Fuzzy Search Algorithms"align="left" src="images/GitHub_Fuzzy_Search_Algorithm.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/jiaqi216/fuzzy-search-talk"><img alt="Fuzzy Search Algorithms"align="left" src="images/GitHub_Fuzzy_Search_Algorithms.png"/>&nbsp;</td>
 <td colspan="3"><b>Fuzzy Search Algorithms: When and How to Use Them</b> 
   <br><br>
 Fuzzy Searching or approximate string matching is powerful because often text data is messy. For example, shorthand and abbreviated text are common in various data sets. In addition, outputs from OCR or voice to text conversions tend to be messy or imperfect. Thus, we want to be able to make the most of our data by extrapolating as much information as possible.
