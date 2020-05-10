@@ -10,6 +10,16 @@
 <td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repos content.  Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/Mariatta/github-app-tutorial"><img alt="GitHub Bot Workshop"align="left" src="images/gitbot.png"/>&nbsp;</td>
+<td colspan="3"><b>Build a GitHub-Bot Workshop</b> 
+  <br><br>
+ In this workshop we’ll be building a GitHub bot that will greet contributors to your project. The bot will be built as a GitHub App which can then be installed to your GitHub repositories.
+We will be building a GitHub bot that can say thanks to the maintainer who installed your bot using gidgethub and aiohttp libraries. 
+If time permits, I'll also share how you can automate other parts of your workflow with Zapier.
+  <br><br> 
+<em>- By Mariatta Wijaya</em></td>
+</tr>
 
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/jiaqi216/fuzzy-search-talk"><img alt="Fuzzy Search Algorithms"align="left" src="images/GitHub_Fuzzy_Search_Algorithms.png"/>&nbsp;</td>
