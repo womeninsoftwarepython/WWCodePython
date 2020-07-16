@@ -11,6 +11,15 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/womenwhocoderichmond/DataPy-CI-Pipeline"><img alt="DevOps With Python"align="left" src="images/GitHub_Viji.png"/>&nbsp;</td>
+<td colspan="3"><b>Python and DevOps </b> 
+  <br><br>
+This webinar will break down and explore python and CICD (continuous integration , continuous deployment).  Participants will learn how to implement Continuous Integration for a Python application. They will also see how to deploy an application on AWS using Python/Boto3. 
+  <br><br> 
+<em>- By Viji Natarajan</em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/Mariatta/github-app-tutorial"><img alt="GitHub Bot Workshop"align="left" src="images/gitbot.png"/>&nbsp;</td>
 <td colspan="3"><b>Build a GitHub-Bot Workshop</b> 
   <br><br>
