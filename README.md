@@ -11,6 +11,16 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://docs.google.com/presentation/d/1S9uxiGG8amckIp5J2jkbXFrv7c9RgcIf0fdc18hmeBw/edit?usp=sharing"><img alt="REST API with Python"align="left" src="images/Logo_for_Github.png"/>&nbsp;</td>
+<td colspan="3"><b>REST API Integration with Python</b> 
+  <br><br>
+Rest APIs are the backbone of Microservices. All major websites and many software services use Rest APIs to transfer data. 
+But how do you use this API to communicate with the Web?
+  <br><br> 
+<em>- By Mridu Bhatnagar</em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/womenwhocoderichmond/DataPy-CI-Pipeline"><img alt="DevOps With Python"align="left" src="images/GitHub_Viji.png"/>&nbsp;</td>
 <td colspan="3"><b>Python and DevOps </b> 
   <br><br>
