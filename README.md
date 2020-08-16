@@ -11,6 +11,15 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/seema1711?before=Y3Vyc29yOnYyOpK5MjAyMC0wNC0yN1QxMzozNTo1OSswOTowMM4PgXaH&tab=repositories"><img alt="Twitter Bot with Python"align="left" src="images/tbot.png"/>&nbsp;</td>
+<td colspan="3"><b>Build Bots on Twitter Bot using Python</b> 
+  <br><br>
+ This is the era of automation, we see everything is automated in the Tech World, whether you don't know how it's done. Python is the language that is widely used for this purpose. Here in this talk, we will build a twitter bot in less than 30 lines of code, that will like, and retweet a particular keyword's tweet.
+  <br><br> 
+<em>- By Seema Saharan</em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://docs.google.com/presentation/d/1S9uxiGG8amckIp5J2jkbXFrv7c9RgcIf0fdc18hmeBw/edit?usp=sharing"><img alt="REST API with Python"align="left" src="images/Logo_for_Github.png"/>&nbsp;</td>
 <td colspan="3"><b>REST API Integration with Python</b> 
   <br><br>
