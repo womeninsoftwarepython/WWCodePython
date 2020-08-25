@@ -11,6 +11,15 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePython_BeginnerSeries"><img alt="Beginner Python Study Group" align="left" src="images/Beginner_Python_Study_Group_GitHub.png"/>&nbsp;</td>
+<td colspan="3"><b>Beginner Python Study Group</b> 
+  <br><br>
+Join us every other Wednesday at 5PM PST/8PM EST as we journey through the exciting world of Python libraries, data types, programming logic and useful functions, and modules with real-time coding exercises. Grab a cup of tea (or your favorite drink) and code along with us!
+  <br><br> 
+<em>- Hosted by Rishika Singh & Karen Wong; Also organized by Stephanie Rideout & Khyati Thapliyal</em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/seema1711?before=Y3Vyc29yOnYyOpK5MjAyMC0wNC0yN1QxMzozNTo1OSswOTowMM4PgXaH&tab=repositories"><img alt="Twitter Bot with Python"align="left" src="images/tbot.png"/>&nbsp;</td>
 <td colspan="3"><b>Build Bots on Twitter Bot using Python</b> 
   <br><br>
