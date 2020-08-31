@@ -11,6 +11,16 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/SaraM92/Intro-to-QC"><img alt="Intro to QC" align="left" src="images/qc.png"/>&nbsp;</td>
+<td colspan="3"><b>Introduction to Quantum Computing Programming with Python and Qiskit</b> 
+  <br><br>
+In this webinar we explore the basics of quantum computing, such as qubits, superposition, entaglment and quantum gates. We navigate options to program a quantum computer and build our first circuit on a simulator and using code.
+  <br><br> 
+<em>- By Sara A. Metwalli</em></td>
+</tr>
+
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePython_BeginnerSeries"><img alt="Beginner Python Study Group" align="left" src="images/Beginner_Python_Study_Group_GitHub.png"/>&nbsp;</td>
 <td colspan="3"><b>Beginner Python Study Group</b> 
   <br><br>
