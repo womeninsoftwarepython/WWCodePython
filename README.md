@@ -11,6 +11,16 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/mridubhatnagar/vocabbot"><img alt="What's App bot" align="left" src="images/chatbot.png"/>&nbsp;</td>
+<td colspan="3"><b>Building a Bot for WhatsApp Using Python and Flask</b> 
+  <br><br>
+Mridu is back with a follow up event on using Flask for creation of vocabulary bot on whatsapp!
+In this webinar you will learn about a Brief introduction to Flask and Building a WhatsApp Bot using Twilio and Python. 
+  <br><br> 
+<em>- By Mridu Bhatnagar</em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/SaraM92/Intro-to-QC"><img alt="Intro to QC" align="left" src="images/qc.png"/>&nbsp;</td>
 <td colspan="3"><b>Introduction to Quantum Computing Programming with Python and Qiskit</b> 
   <br><br>
