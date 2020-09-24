@@ -11,6 +11,15 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/rishikasb/DiscoverNLPwithPython"><img alt="NLP Study Group" align="left" src="images/NLP_Study_Group_GitHub.png"/>&nbsp;</td>
+<td colspan="3"><b>Discover NLP with Python Study Group</b> 
+  <br><br>
+Please join us in discovering NLP with Python, as we begin with the foundations of NLP and deep learning, all the way to its applications in machine translation and sentiment analysis. Our monthly sessions will introduce you to the exciting world of natural language processing!
+  <br><br> 
+<em>- By Yashika, Rishika, and Ramya</em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/mridubhatnagar/vocabbot"><img alt="What's App bot" align="left" src="images/chatbot.png"/>&nbsp;</td>
 <td colspan="3"><b>Building a Bot for WhatsApp Using Python and Flask</b> 
   <br><br>
