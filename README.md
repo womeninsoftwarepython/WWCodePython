@@ -11,6 +11,21 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/google/python-fire"><img alt="Python Fire" align="left" src="images/fire.png"/>&nbsp;</td>
+<td colspan="3"><b>Python Fire</b> 
+  <br><br>
+Python Fire is a library for automatically generating command-line interfaces (CLIs) from absolutely any Python object. 
+Python Fire got its name Fire because when you call `Fire`, it fires off (executes) your command.
+Learn about:
+- What exactly is Python Fire?
+- How Python Fire can make your code concise?
+- Where and when to use Python Fire?
+- How to contribute to the library and make it more awesome?
+  <br><br> 
+<em>- By David Beiber</em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/rishikasb/DiscoverNLPwithPython"><img alt="NLP Study Group" align="left" src="images/NLP_Study_Group_GitHub.png"/>&nbsp;</td>
 <td colspan="3"><b>Discover NLP with Python Study Group</b> 
   <br><br>
