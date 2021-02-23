@@ -10,6 +10,17 @@
 <td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repos content.  Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+
+
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/rishikasb/IntrotoDataStructures"><img alt="Python DS" align="left" src="images/dataS.png"/>&nbsp;</td>
+<td colspan="3"><b>Intro to Data Structures with Python: Ace the Technical Interview</b> 
+  <br><br>
+This study group will cover the various sub-types of data structures and specifically implementing them in Python. Each session will begin with a conceptual presentation and conclude with a live-coding implementation using Google Colab.
+  <br><br> 
+<em>- By Rishika Singh and Jasmeen Rajpal</em></td>
+</tr>
+
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/google/python-fire"><img alt="Python Fire" align="left" src="images/fire.png"/>&nbsp;</td>
 <td colspan="3"><b>Python Fire</b> 
