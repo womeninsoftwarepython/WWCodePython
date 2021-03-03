@@ -10,7 +10,15 @@
 <td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repos content.  Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
-
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/HalaSaadeh/womenwhocode-python-databases-series"><img alt="Python Db" align="left" src="images/db-git.png"/>&nbsp;</td>
+<td colspan="3"><b>Databases with Python: Quickstart : An overview of SQL - Concepts, Structure, and More</b> 
+  <br><br>
+With a world so centered around data, databases are an essential component for every developer. Python has a series of tools and libraries that help us manipulate and work with databases using our Python code.
+In this series, we will be exploring the concepts, theory, and code behind multiple databases, both SQL and noSQL. The series will kickstart with a session on SQL concepts where we will tackle relational databases from A-Z. Then, we will use SQL with Python, and following that, we will jump to noSQL and explore two very popular databases, MonogoDB and Firebase.
+  <br><br> 
+<em>- By Hala Saadeh, Ramya, and Karen Wong </em></td>
+</tr>
 
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/rishikasb/IntrotoDataStructures"><img alt="Python DS" align="left" src="images/dataS.png"/>&nbsp;</td>
