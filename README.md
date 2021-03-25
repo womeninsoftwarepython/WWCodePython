@@ -6,6 +6,19 @@
 <table style= "background-color: transparent; border-color: transparent;">
 <tbody>
   
+  <tr>
+<td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repos content.  Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.</em><br><br></h3></td>
+</tr>
+
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://docs.google.com/presentation/d/16DeZgdUsHoZXEikhd3dYP-K3_YzUr9N6uSBh7o2Yobo/edit#slide=id.p"><img alt="Python Db" align="left" src="images/edge.png"/>&nbsp;</td>
+<td colspan="3"><b>Databases with Python: Quickstart : An overview of SQL - Concepts, Structure, and More</b> 
+  <br><br>
+In this session we go through the basics of building nueral networks for edge computing.
+  <br><br> 
+<em>- By Vaidheeswaran Archan </em></td>
+</tr>
+  
 <tr>
 <td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repos content.  Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.</em><br><br></h3></td>
 </tr>
