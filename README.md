@@ -11,10 +11,17 @@
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://docs.google.com/presentation/d/16DeZgdUsHoZXEikhd3dYP-K3_YzUr9N6uSBh7o2Yobo/edit#slide=id.p"><img alt="Python Db" align="left" src="images/edge.png"/>&nbsp;</td>
-<td colspan="3"><b>Databases with Python: Quickstart : An overview of SQL - Concepts, Structure, and More</b> 
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/tinyml-team/study-group"><img alt="Python Db" align="left" src="images/edge.png"/>&nbsp;</td>
+<td colspan="3"><b>Introduction to Deep Learning for Edge Devices</b> 
   <br><br>
-In this session we go through the basics of building nueral networks for edge computing.
+In this session we go through the basics of deep learning for edge computing.
+Session 1: Introduction to Edge Computing
+Session 2: Basics of Running Neural Network at the Edge
+Session 3: Quantization of Neural Networks
+Session 4: Hardware for the Edge
+Session 5 - Pruning
+Session 6 - Early Exits for Neural Network
+Session 7- Edge TPU and Edge TPU Accelerator
   <br><br> 
 <em>- By Vaidheeswaran Archan </em></td>
 </tr>
