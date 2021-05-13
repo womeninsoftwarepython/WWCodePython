@@ -11,6 +11,15 @@
 </tr>
 
 <tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/wwc_python_trivia_tuesday"><img alt="Tivia Tuesday" align="left" src="images/tt.PNG"/>&nbsp;</td>
+<td colspan="3"><b>Introduction to Deep Learning for Edge Devices</b> 
+  <br><br>
+Stay tuned every Tuesday on out Instagram, Twitter and Facebook page for a new Trivia Tuesday.
+  <br><br> 
+<em>- By Jessica Koubi </em></td>
+</tr>
+
+<tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/tinyml-team/study-group"><img alt="Python Db" align="left" src="images/edge.png"/>&nbsp;</td>
 <td colspan="3"><b>Introduction to Deep Learning for Edge Devices</b> 
   <br><br>
