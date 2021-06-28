@@ -56,7 +56,7 @@ Session 5 - Pruning
 Session 6 - Early Exits for Neural Network
 Session 7- Edge TPU and Edge TPU Accelerator
   <br><br> 
-<em>- By Vaidheeswaran Archan </em></td>
+<em>- By Vaidheeswaran Archana and Soham Chatterjee </em></td>
 </tr>
   
 <tr>
@@ -70,7 +70,7 @@ In this series, we will be exploring the concepts, theory, and code behind multi
 </tr>
 
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/rishikasb/IntrotoDataStructures"><img alt="Python DS" align="left" src="images/dataS.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/DataStructuresseries"><img alt="Python DS" align="left" src="images/dataS.png"/>&nbsp;</td>
 <td colspan="3"><b>Intro to Data Structures with Python: Ace the Technical Interview</b> 
   <br><br>
 This study group will cover the various sub-types of data structures and specifically implementing them in Python. Each session will begin with a conceptual presentation and conclude with a live-coding implementation using Google Colab.
