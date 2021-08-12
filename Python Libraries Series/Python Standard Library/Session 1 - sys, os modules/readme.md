@@ -13,15 +13,15 @@
         2. Functions
             - getcwd(), mkdir(), chdir(), rmdir(), rename(),
                 open(), fchdir(), environ(), path.join()
-    3. Live implementation
+    3. Live implementations of all modules
 
 
 ## Links to resources
 
-> ### [Link to slides]([Slides]%20SYS,%20OS.pdf)
+> ### [Link to slides]([Slides]%20sys,%20os%20modules.pdf)
 
-> ### [Link to the notebook]([Colab]%20SYS,%20OS.ipynb)
+> ### [Link to the notebook]([Colab]%20sys,%20os%20modules.ipynb)
 
 > ### [Link to code implementations - Guessing game](Codes/)
 
-> ### [Link to session recording]()
+> ### [Link to session recording](https://www.youtube.com/watch?v=_eDy7UKf32M)
