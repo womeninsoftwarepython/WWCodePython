@@ -1,4 +1,4 @@
-# Session #6: numpy and pandas
+# Session #6: Data Science Fundamentals - numpy and pandas
 
 ## Contents Covered in the Session
     1. NumPy
@@ -16,4 +16,4 @@
 
 > ### [Link to the notebook]([Colab]%20numpy%20and%20pandas%20modules.ipynb)
 
-> ### [(Yet to be Uploaded)Link to session recording]()
+> ### Link to session recording

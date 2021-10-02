@@ -23,4 +23,4 @@
 
 > ### [Link to the notebook]([Colab]%20math,%20random,%20statistics%20modules.ipynb)
 
-> ### [Link to session recording]
+> ### [Link to session recording](https://www.youtube.com/watch?v=MbvPnzchWI4)
