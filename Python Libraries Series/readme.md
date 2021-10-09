@@ -46,3 +46,12 @@
 <em>- By Soumya Vemuri</em></td>
 </tr>
 
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/Python%20Libraries%20Series/Image%20Processing%20using%20Pillow"><img alt="Pillow" align="left" src="images/pillow.png"/>&nbsp;</td>
+<td colspan="3"><b>Image Processing using Pillow</b> 
+  <br><br>Modify, manipulate and play around with images using Pillow!!<br>
+
+  <br> 
+<em>- By Soumya Vemuri</em></td>
+</tr>
+

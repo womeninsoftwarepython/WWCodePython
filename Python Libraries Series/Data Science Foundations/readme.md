@@ -16,4 +16,4 @@
 
 > ### [Link to the notebook]([Colab]%20numpy%20and%20pandas%20modules.ipynb)
 
-> ### Link to session recording
+> ### [Link to session recording](https://www.youtube.com/watch?v=bxGvDeFp2JU)
