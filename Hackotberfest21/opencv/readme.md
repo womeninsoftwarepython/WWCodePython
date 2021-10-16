@@ -6,7 +6,7 @@ You can participate in hacktoberefest 21 through this opencv Cheatsheet.
 
 Want to know how to get started?
 
-1. Navigate to opencv-cheatsheet.md/. Search for headings like Working on Images: OpenCV
+1. Navigate to opencv-cheatsheet.md/. Search for headings like "Working on Images: OpenCV"
 
 2. Choose an area you want to contribute to and check to see if the code has been filled in. If the space is left free, you can add your code to it.
 
