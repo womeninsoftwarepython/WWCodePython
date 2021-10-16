@@ -34,4 +34,11 @@ Happy Hacking!!
 
 Want to contribute to more technical stacks, check out [Hacktoberfest at Women Who Code](womenwhocode.com/hacktoberfest)
 
+
+Resources to check out:
+
+- [Geeks for Geeks](https://www.geeksforgeeks.org/opencv-python-tutorial/)
+- [Learn Open CV](https://learnopencv.com/)
+
+
  
