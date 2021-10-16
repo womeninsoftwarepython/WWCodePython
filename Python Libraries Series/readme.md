@@ -54,4 +54,11 @@
   <br> 
 <em>- By Soumya Vemuri</em></td>
 </tr>
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/Python%20Libraries%20Series/Computer%20Vision%20with%20OpenCV"><img alt="OpenCV" align="left" src="images/opencv.png"/>&nbsp;</td>
+<td colspan="3"><b>Computer Vision with OpenCV</b> 
+  <br><br>A guide through one of the largest open-source libraries that provides us with various functions for OpenCV.<br>
 
+  <br> 
+<em>- By Archana Iyer</em></td>
+</tr>
