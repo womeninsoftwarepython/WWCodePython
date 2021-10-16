@@ -22,7 +22,7 @@ Want to know how to get started?
 
 7. Make sure you write what is your PR about, example adding code for extracting frames from video
 
-8. Then navigate to the right hand column and you will find **Labels: Click on the gear symbol and search for Hacktoberfest label"
+8. Then navigate to the right hand column and you will find **Labels: Click on the gear symbol and search for Hacktoberfest label"**
 
 9. Yay, you are done now. Your PR will be merged in a few days. Keep checking the PR for comments and changes
 
