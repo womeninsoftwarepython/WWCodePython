@@ -24,7 +24,7 @@
 
   2. Image Resizing
   3. Blurring an Image
-  4. Grayscaling of images
+  4. Grayscaling of images 'image_to_greyscale=cv2.imread(path,0)' 'cv2_imshow(image_to_greyscale)'
 
 ## Working with Videos 
 
