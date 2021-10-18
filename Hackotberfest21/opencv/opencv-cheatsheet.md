@@ -14,8 +14,8 @@
 ## Working with Videos 
 
   1. Play videos with OpenCv: <br> 
-  * find an video to use 
-  - if using google colab upload a video to your google drive to use Add the following code to let google colab access your google drive: 
+  * Find an video to use 
+  - If using Google Colab upload a video to your google drive to use. Add the following code to let google colab access your google drive: 
   ```
       from google.colab import drive
   ``` 
@@ -23,12 +23,12 @@
   ```
     !wget = "put your video url here"
   ``` 
-  -Also put your ending part of the video url in the cap code inside the parentheses and quote: 
+  - Also put your ending part of the video url in the cap code inside the parentheses and quote: 
   ``` 
     cap = cv2.VideoCapture('number part.mp4')
   ``` 
-  - just play the code and it'll the video frame by frame, warning it'll be very slow on google colab
-  [sample code](https://github.com/quinnrenee/WWCodePython)
+  - It will play the video frame by frame. Warning it will be very slow on Google Colab.
+  - [sample code](https://github.com/quinnrenee/WWCodePython/blob/master/notebooks/Play_A_Video_with_OpenCV.ipynb)
   2. Extract frames from a video
 
 
