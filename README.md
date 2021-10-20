@@ -36,7 +36,7 @@ To add new resources for events follow the [CONTRIBUTING guidelines](Contributin
 
 <!-- OneLineCoding -->
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/wwc_onelinecoding"><img alt="OneLineCoding" align="left" src="/OneLineCoding/onelinecoding.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/wwc_onelinecoding"><img alt="OneLineCoding" align="left" src="OneLineCoding/onelinecoding.png"/>&nbsp;</td>
 <td colspan="3"><b>Less Is More: How to Code Python in One Line</b> 
   <br><br>
 These Python one-liners will save you a bunch of time on your next project, so make sure to come along with us on this journey to uncover the true potential of the Python language and learn how to✨ do a lot with a little✨.
