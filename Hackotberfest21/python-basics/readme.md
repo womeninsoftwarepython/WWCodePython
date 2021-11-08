@@ -24,7 +24,7 @@
 
 ## Python Data Structures
 
-* Lists
+* [Lists](notebooks/Python_Lists_Cheatsheet.ipynb)
 * Sets
 * Tuples
 * Dictionaries
@@ -32,7 +32,7 @@
 ## Declaration of Functions in Python
 
 * Python Functions
-* Lambda Functions (Anonymous Functions)
+* [Lambda Functions (Anonymous Functions)](notebooks/Lambda_Functions_CHeatsheet.ipynb)
 
 ## File Handling
 *
