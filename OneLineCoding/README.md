@@ -8,8 +8,8 @@
 </span>
 
 ### <span style="color:lightskyblue">Intermediate Session I  :hot_pepper::hot_pepper:
-* [slides]()
-* [notebook]()  
+* [slides](slides/WWC_OneLineCoding.pdf)
+* [notebook](https://github.com/nuageklow/WWCodePython/blob/master/OneLineCoding/colab_notebooks/WWCode_Python_One_Liners_Intermediate_Session_1.ipynb)  
 </span>
 
 
