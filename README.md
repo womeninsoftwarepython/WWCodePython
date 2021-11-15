@@ -48,8 +48,9 @@ These Python one-liners will save you a bunch of time on your next project, so m
 
 <!-- Leetcode -->
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/wwc_leetcode"><img alt="Leetcode" align="left" src="LeetCodeSeries/leetcode.png"/>&nbsp;</td>
-<td colspan="3"><b>LeetCode Study Group</b>
+
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/LeetCodeSeries"><img alt="Leetcode" align="left" src="LeetCodeSeries/leetcode.png"/>&nbsp;</td>
+<td colspan="3"><b>Leetcode Study Group</b>
   <br><br>
 In this study group we will be walking through a medium level LeetCode problem from understanding the problem to solving it. We will discuss one pattern during each session.
   <br><br>
