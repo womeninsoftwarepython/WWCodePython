@@ -14,8 +14,8 @@
 
 
 ### <span style="color:royalblue">Intermediate Session II :hot_pepper::hot_pepper::hot_pepper:   
-* [slides](slides/WWC_OneLineCoding_Int2.pdf)
-* [notebook](https://github.com/nuageklow/WWCodePython/blob/master/OneLineCoding/colab_notebooks/WWCode_Python_One_Liners_Intermediate Session_3.ipynb)  
+* [slides](slides/WWC_OneLineCoding_Int2.pdf)  
+* [notebook](https://github.com/nuageklow/WWCodePython/blob/master/OneLineCoding/colab_notebooks/WWCode Python One-Liners Intermediate Session-3.ipynb)  
 </span>
 
 ### <span style="color:midnightblue">Advanced Session :hot_pepper::hot_pepper::hot_pepper::hot_pepper:

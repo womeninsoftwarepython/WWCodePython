@@ -50,7 +50,7 @@ These Python one-liners will save you a bunch of time on your next project, so m
 <tr>
 
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/LeetCodeSeries"><img alt="Leetcode" align="left" src="LeetCodeSeries/leetcode.png"/>&nbsp;</td>
-<td colspan="3"><b>Leetcode Study Group</b>
+<td colspan="3"><b>LeetCode Study Group</b>
   <br><br>
 In this study group we will be walking through a medium level LeetCode problem from understanding the problem to solving it. We will discuss one pattern during each session.
   <br><br>
@@ -62,7 +62,7 @@ In this study group we will be walking through a medium level LeetCode problem f
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/Python%20Libraries%20Series"><img alt="Library 101" align="left" src="Python%20Libraries%20Series/images/header.png"/>&nbsp;</td>
 <td colspan="3"><b>Python Libraries 101 Study Group</b>
   <br><br>
-This study group will take you on this journey through the exciting world of Python libraries to help you code faster, better and smarter *sparkles**sparkles*!
+This study group will journey through the exciting world of Python libraries to help you code faster, better and smarter!
   <br><br>
 <em>- By Soumya Vemuri, Shermaine Ang and Karen Wong </em></td>
 </tr>
@@ -115,7 +115,7 @@ In this series, we will be exploring the concepts, theory, and code behind multi
 
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/DataStructuresseries"><img alt="Python DS" align="left" src="images/dataS.png"/>&nbsp;</td>
-<td colspan="3"><b>Intro to Data Structures with Python: Ace the Technical Interview</b>
+<td colspan="3"><b>Introduction to Data Structures with Python: Ace the Technical Interview</b>
   <br><br>
 This study group will cover the various sub-types of data structures and specifically implementing them in Python. Each session will begin with a conceptual presentation and conclude with a live-coding implementation using Google Colab.
   <br><br>
@@ -168,7 +168,7 @@ In this webinar we explore the basics of quantum computing, such as qubits, supe
 
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePython_BeginnerSeries"><img alt="Beginner Python Study Group" align="left" src="images/Beginner_Python_Study_Group_GitHub.png"/>&nbsp;</td>
-<td colspan="3"><b>Beginner Python Study Group</b>
+<td colspan="3"><b>Beginner Python Study Group 2020</b>
   <br><br>
 Join us every other Wednesday at 5PM PDT/8PM EDT as we journey through the exciting world of Python libraries, data types, programming logic and useful functions, and modules with real-time coding exercises. Grab a cup of tea (or your favorite drink) and code along with us!
   <br><br>
@@ -240,7 +240,7 @@ In this talk, we’ll be covering how to create these embeddings with a focus on
 
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/AndyLPK247/tau-intro-selenium-py"><img alt="Tau-Intro-Selenium-Py"align="left" src="images/automation%20panda.png"/>&nbsp;</td>
-<td colspan="3"><b>Beyond Unit Tests: End to End Web UI Testing <br>(or <i>Testing google forms, and how much I hate it</i>)</b>
+<td colspan="3"><b>Beyond Unit Tests: End to End Web UI Testing <br>(or <i>Testing Google forms, and how much I hate it</i>)</b>
   <br><br>
 
 Unit tests are great, but they don’t catch all bugs because they don’t test features like a user -- but Web UI tests are complicated & notoriously unreliable. How can we write tests that do the job well? Never fear! :star2: :star2: :star2:
@@ -319,7 +319,7 @@ In <b>session III</b> you'll analyze the robberies data by doing some aggregatio
 
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/respiratory-buddy"><img alt="Diagnosing lungh conditions with Pthon and CNNs" align="left" src="images/lung_condition_prediction.png"/> &nbsp;</td>
-<td colspan="3"><br><b>A Walk-throug of Respiratory Buddy</b>
+<td colspan="3"><br><b>A Walk-through of Respiratory Buddy</b>
 <br>
 <p>A Web Application helping Doctors & medical personnel detect & diagnose Respiratory/Lung Diseases using CXR <i>(X-Ray data)</i> images.  <br><br>A  Strictly Medical Machine-Learning based solution with a special implementation of a CNN <i>(convolutional neural network)</i>.</p>
 
