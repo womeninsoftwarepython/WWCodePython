@@ -14,7 +14,6 @@ presented by: Chethana and Karen
 
 
 __<font size=4>Table of Content</font>__
-
 | __Session__ | Topic Pattern | Materials | Easy Problem Suggestions |  
 | :------: |:------: | :------- | :------- |
 | 1 | Two Pointers | [Slides](slides/S1_TwoPointers.pdf) <br/> [Leetcode problem: Three Sum](https://leetcode.com/problems/3sum/) | [Two Sum](https://leetcode.com/problems/two-sum/) <br /> [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
@@ -24,5 +23,6 @@ __<font size=4>Table of Content</font>__
 | 5 | Hashtable | [Slides](slides/CONNECT_PowerOfHashtables.pdf) <br /> [Colab Link](https://github.com/nuageklow/WWCodePython/blob/master/LeetCodeSeries/PowerOfHashtables.ipynb) <br /> [Leetcode problem: Group Anagrams](https://leetcode.com/problems/group-anagrams/) <br /> | |
 | 6 | DFS | [Slides](slides/S6_DFS&BFS.pdf) <br /> [Leetcode problem: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) <br /> | |
 | 7 | Backtracking | [Slides](slides/S7_Backtracking.pdf) <br /> [Leetcode problem: Subsets](https://leetcode.com/problems/subsets/) <br /> | |
+
 
 </div>
