@@ -36,7 +36,7 @@ To add new resources for events follow the [CONTRIBUTING guidelines](Contributin
 
 <!-- Introduction to Qt -->
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/talk_introduction_to_qt"><img alt="Introduction to Qt" align="left" src="images/intro_to_qt.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/talk_introduction_to_qt"><img alt="Introduction to Qt" align="left" src="images/intro_to_qt.png"/>&nbsp;</td>
 <td colspan="3"><b>Introduction to Qt</b>
   <br><br>
 Do you have a cool application idea or want to distribute your tools to non-technical users?
