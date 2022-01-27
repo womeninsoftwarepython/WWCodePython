@@ -34,6 +34,18 @@ To add new resources for events follow the [CONTRIBUTING guidelines](Contributin
 <td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repo's content.  Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+<!-- Introduction to Qt -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/talk_introduction_to_qt"><img alt="Introduction to Qt" align="left" src="images/intro_to_qt.png"/>&nbsp;</td>
+<td colspan="3"><b>Introduction to Qt</b>
+  <br><br>
+Do you have a cool application idea or want to distribute your tools to non-technical users?
+
+Join our Introduction to Qt series to learn how to create your first interface with PyQt/PySide! We will go over how to create simple interfaces, some of Qt concepts, and how to put everything together to create a more complex interface.
+  <br><br>
+<em>- By Jessica Koubi </em></td>
+</tr>
+
 <!-- OneLineCoding -->
 <tr>
 
