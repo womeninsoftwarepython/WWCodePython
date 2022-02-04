@@ -10,7 +10,17 @@ presented by: Chethana and Karen
 
 ---------------------
 [repl_link]: https://replit.com/@codernewbie/WWCodePythonLeetcode
-<font size=5>__Live Coding Materials: [repl_link]__ </font>
+<font size=5>__Live Coding Materials: [repl_link]__ </font>  
+
+
+## Table of Contents  
+### __Session 1: Two Pointers__  
+[Slides](slides/S1_TwoPointers.pdf)  
+[Leetcode problem: Three Sum](https://leetcode.com/problems/3sum)  
+Practice Problems:  
+[Two Sum](https://leetcode.com/problems/two-sum/)  
+[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  
+ 
 
 
 __<font size=4>Table of Content</font>__
