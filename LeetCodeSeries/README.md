@@ -25,4 +25,5 @@ __<font size=4>Table of Content</font>__
 | 8 | Bonus Pattern I | [Slides](slides/S8_BonusPatterns#1.pdf) <br /> [Leetcode problem: Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) <br /> [Leetcode problem: Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) <br /> [Leetcode problem: Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | | 
 | 9 | Resources & Wrap Up | [Slides](slides/ResourcesAndWrapup.pdf) <br /> | |  
 
+
 </div>

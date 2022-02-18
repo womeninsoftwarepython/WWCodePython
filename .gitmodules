@@ -37,3 +37,6 @@
 [submodule "coding_for_the_movie_industry"]
 	path = coding_for_the_movie_industry
 	url = https://github.com/jessicakoubi/talk_coding_for_the_movie_industry
+[submodule "talk_introduction_to_qt"]
+	path = talk_introduction_to_qt
+	url = git@github.com:jessicakoubi/talk_introduction_to_qt.git
