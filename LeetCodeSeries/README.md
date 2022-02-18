@@ -22,7 +22,7 @@ __<font size=4>Table of Content</font>__
 | 5 | Hashtable | [Slides](slides/CONNECT_PowerOfHashtables.pdf) <br /> [Colab Link](https://github.com/nuageklow/WWCodePython/blob/master/LeetCodeSeries/PowerOfHashtables.ipynb) <br /> [Leetcode problem: Group Anagrams](https://leetcode.com/problems/group-anagrams/) <br /> | |
 | 6 | DFS | [Slides](slides/S6_DFS&BFS.pdf) <br /> [Leetcode problem: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) <br /> | |
 | 7 | Backtracking | [Slides](slides/S7_Backtracking.pdf) <br /> [Leetcode problem: Subsets](https://leetcode.com/problems/subsets/) <br /> | |  
-| 8 | Bonus Pattern I | [Slides](slidees/S8_BonusPatterns#1.pdf) <br /> [Leetcode problem: Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) <br /> [Leetcode problem: Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) <br /> [Leetcode problem: Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | | 
-
+| 8 | Bonus Pattern I | [Slides](slides/S8_BonusPatterns#1.pdf) <br /> [Leetcode problem: Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) <br /> [Leetcode problem: Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) <br /> [Leetcode problem: Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | | 
+| 9 | Resources & Wrap Up | [Slides](slides/ResourcesAndWrapup.pdf) <br /> | |  
 
 </div>
