@@ -9,23 +9,24 @@ The Python track provides tutorials and resources to help and inspire women to e
 
 💻 Technical Webinars 📲 Coding Resources 💭 Study Group Sessions 🗺️ Supportive Global Network
 
-**If you're interested in joining the community as a member or volunteer please visit our [website](https://www.womenwhocode.com/python) for more information! Or send us an [email](python@womenwhocode.com).**
+**If you're interested in joining the community as a member or volunteer, please visit our [website](https://www.womenwhocode.com/python) for more information! Or send us an [email](python@womenwhocode.com).**
 
 ## Social
 
 Join our community conversations!
 
 [Slack](https://join.slack.com/t/wwcodepython/shared_invite/zt-m361di68-03G9V7OpYxW8nCSXC9n4WA)  
-[Twitter](https://twitter.com/WWCodePython)  
-[Instagram](https://www.instagram.com/wwcodepython/)  
-[Facebook](https://www.facebook.com/groups/339530313436604)  
-[LinkedIn](https://www.linkedin.com/company/women-who-code)
+[Twitter](https://twitter.com/WWCodePython)
+[LinkedIn](https://www.linkedin.com/showcase/women-who-code-python)
+[Instagram](https://www.instagram.com/wwcodepython/)
+[Facebook](https://www.facebook.com/WWCodePython)
+
 
 ## Event Resources
 
-Expand the section below to find all the resources shared during past and upcoming events. Clicking on a logo will take you to the event code base and/or slides. You will also find a link to the video recording in the event description. All of our events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/channel/UCfMEaBUSABoOsxr7HgSmEdA) 1-3 days following an event. Please reach out with any questions or issues, and join us on Slack for interactive discussions and support.
+Expand the section below to find all the resources shared during past and upcoming events. Clicking on a logo will take you to the event code base and/or slides. You will also find a link to the video recording in the event description. All of our events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/playlist?list=PLVcEZG2JPVhd8nd_UOjOkocVn_5u_YrcD) 1-7 days following an event. Please reach out with any questions or issues, and join us on Slack for interactive discussions and support.
 
-To add new resources for events follow the [CONTRIBUTING guidelines](ContributingGuidelines.md).
+To add new resources for events, follow the [CONTRIBUTING guidelines](ContributingGuidelines.md).
 
 <table style= "background-color: transparent; border-color: transparent;">
 <tbody>
