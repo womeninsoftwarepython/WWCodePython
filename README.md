@@ -103,7 +103,7 @@ This talk will introduce you to the role of a Pipeline Technical Director in the
 
 <!-- Trivia Tuesday -->
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/wwc_python_trivia_tuesday"><img alt="Tivia Tuesday" align="left" src="images/tt.PNG"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/wwc_python_trivia_tuesday"><img alt="Tivia Tuesday" align="left" src="images/TriviaTuesday.png"/>&nbsp;</td>
 <td colspan="3"><b>Trivia Tuesday</b>
   <br><br>
 Stay tuned every Tuesday on our Instagram, Twitter, and LinkedIn page for a new Trivia Tuesday.
