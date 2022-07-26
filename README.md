@@ -16,10 +16,10 @@ The Python track provides tutorials and resources to help and inspire women to e
 Join our community conversations!
 
 [Slack](https://join.slack.com/t/wwcodepython/shared_invite/zt-m361di68-03G9V7OpYxW8nCSXC9n4WA)  
-[Twitter](https://twitter.com/WWCodePython)
-[LinkedIn](https://www.linkedin.com/showcase/women-who-code-python)
-[Instagram](https://www.instagram.com/wwcodepython/)
-[Facebook](https://www.facebook.com/WWCodePython)
+[Twitter](https://twitter.com/WWCodePython)  
+[LinkedIn](https://www.linkedin.com/showcase/women-who-code-python)  
+[Instagram](https://www.instagram.com/wwcodepython/)  
+[Facebook](https://www.facebook.com/WWCodePython)  
 
 
 ## Event Resources
