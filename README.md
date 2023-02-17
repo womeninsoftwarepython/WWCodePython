@@ -1,15 +1,15 @@
-<a href="https://www.womenwhocode.com"><img alt="Women Who Code Python Technical Track." align="left" src="images/Repo Heder Color.png"></a><br>
+<a href="https://www.womenwhocode.com"><img alt="Women Who Code Python Technical Track." align="left" src="images/GitHubRepoHeader.png"></a><br>
 <br>
 &nbsp;&nbsp;&nbsp;
 <br>
 
-Welcome! This repo contains content, code, and resources for the Women Who Code Python Global Track Events.
+Welcome! Our GitHub repo contains content, code, and resources for the Women Who Code Python global technical track events.
 
 The Python track provides tutorials and resources to help and inspire women to excel in careers that use the Python programming language.
 
 💻 Technical Webinars 📲 Coding Resources 💭 Study Group Sessions 🗺️ Supportive Global Network
 
-**If you're interested in joining the community as a member or volunteer, please visit our [website](https://www.womenwhocode.com/python) for more information! Or send us an [email](python@womenwhocode.com).**
+**If you're interested in joining the community as a member or volunteer, please visit our [website](https://www.womenwhocode.com/python) for more information.**
 
 ## Social
 
@@ -24,15 +24,15 @@ Join our community conversations!
 
 ## Event Resources
 
-Expand the section below to find all the resources shared during past and upcoming events. Clicking on a logo will take you to the event code base and/or slides. You will also find a link to the video recording in the event description. All of our events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/playlist?list=PLVcEZG2JPVhd8nd_UOjOkocVn_5u_YrcD) 1-7 days following an event. Please reach out with any questions or issues, and join us on Slack for interactive discussions and support.
+Below are the resources and materials shared during past and upcoming events. Click on a logo to view the event code base and/or presentation slides. You will also find a link to the video recording in the event description. Most of our events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/playlist?list=PLVcEZG2JPVhd8nd_UOjOkocVn_5u_YrcD) 1-7 days after an event. Please reach out with any questions or issues, and join us on Slack for interactive discussions and support.
 
-To add new resources for events, follow the [CONTRIBUTING guidelines](ContributingGuidelines.md).
+To add new resources for events, please follow the [CONTRIBUTING guidelines](ContributingGuidelines.md).
 
 <table style= "background-color: transparent; border-color: transparent;">
 <tbody>
 
   <tr>
-<td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repo's content.  Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
+<td colspan="4"><h3><br><em>Click on a logo below to view the associated repo -- where you can review, copy, or clone the repo's content. Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
 <!-- Regex study group -->
