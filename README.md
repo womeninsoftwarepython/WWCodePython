@@ -35,6 +35,20 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
 <td colspan="4"><h3><br><em>Click on a logo below to view the associated repo -- where you can review, copy, or clone the repo's content. Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+<!-- Regex study group -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePy_regex.git"><img alt="Regex Study Grouop" align="left" src="images/sch_-_python_regex_series.png"/>&nbsp;</td>
+<td colspan="3"><b>Python RegEx / Regular Expressions in Python Study Group Series</b>
+  <br><br>
+Join our Python RegEx study group series! These sessions are perfect for those unfamiliar with programming but enjoy learning new languages.
+
+Have you ever wondered how a search button work? Do you know your mutli-lingual ability can be extended to exporting in finding specific information you want online?
+
+For beginners with fundamental Python knowledge, we will cover Basic RegEx Structure, introduction of Regular Expression and Language, Metacharacter, RegEx methods, & fun regex games in the 5-part series
+  <br><br>
+<em>- By Karen Wong, Mansi Jain and Katerina Hanson</em></td>
+</tr>
+
 <!-- Introduction to Coding Environments for Python -->
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/wwcode_pyton_ide_series.git"><img alt="Introduction to Coding Environments for Python" align="left" src="images/intro_to_code_env.png"/>&nbsp;</td>
