@@ -37,7 +37,7 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
 
 <!-- Regex study group -->
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePy_regex.git"><img alt="Regex Study Grouop" align="left" src="images/sch_-_python_regex_series.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePy_regex.git"><img alt="Regex Study Grouop" align="left" src="images/regex.png"/>&nbsp;</td>
 <td colspan="3"><b>Python RegEx / Regular Expressions in Python Study Group Series</b>
   <br><br>
 Join our Python RegEx study group series! These sessions are perfect for those unfamiliar with programming but enjoy learning new languages.
