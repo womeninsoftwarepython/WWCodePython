@@ -35,11 +35,38 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
 <td colspan="4"><h3><br><em>Click on a logo below to view the associated repo -- where you can review, copy, or clone the repo's content. Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+
+<!-- Android Backend Development -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href=""><img alt="Android Backend Development" align="left" src="images/android_backend_dev.png"/>&nbsp;</td>
+
+<td colspan="3"><b>Beginner’s Guide to Python Backend Development for Mobile Products Series</b>
+  <br><br>
+Join us for our Beginner’s Guide to Python Backend Development for Mobile Products series!  
+
+For beginners and intermediate levels, we will cover all aspects of a mobile app development project, and build a mobile app together! Our sessions will go over essential knowledge for your developer toolkit, such as information architecture and workflow, data storytelling for end-users, setting up your developer environment tools, best practices and tips for design, accessibility, performance, security, debugging, and popular app stores and platforms.
+<br><br>
+<em>- By Elaine Chan</em></td>
+</tr>
+
+<!-- Resume Booster -->
+<tr>
+
+<td style="border: none;" align="left" width="20%"><a href=""><img alt="Resume Booster" align="left" src="images/resume_booster.png"/>&nbsp;</td>
+
+<td colspan="3"><b>Build Python Projects For A Resume Booster</b>
+  <br><br>
+Join us for our workshop series on building Python projects for your resume! For entry levels and beginners, we will cover resume and interviewing tips, and build Python projects together in front end/ web development, data analytics, and cloud development.  
+
+This hands-on workshop will guide you in building potential resume python projects on web development, data analytics, and cloud development. As we lay out the path to boosting your resume effectively, we invite you to join us on this journey.
+<br><br>
+<em>- By Elaine Chan</em></td>
+</tr>
+
 <!-- Regex study group -->
 <tr>
 
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePy_regex.git"><img alt="Regex Study Grouop" align="left" src="images/regex.png"/>&nbsp;</td>
-
 
 <td colspan="3"><b>Python RegEx / Regular Expressions in Python Study Group Series</b>
   <br><br>
