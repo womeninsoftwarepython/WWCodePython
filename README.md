@@ -46,7 +46,6 @@ For beginners and intermediate levels, we will cover all aspects of a web develo
 <em>- By Katerina Hanson</em></td>
 </tr>
 
-
 <!-- Android Backend Development -->
 <tr>
 <td style="border: none;" align="left" width="20%"><a href=""><img alt="Android Backend Development" align="left" src="images/android_backend_dev.png"/>&nbsp;</td>
