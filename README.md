@@ -35,6 +35,16 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
 <td colspan="4"><h3><br><em>Click on a logo below to view the associated repo -- where you can review, copy, or clone the repo's content. Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+<!-- FullStack Web Dev -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/katerina7479/wwc_fs_web_dev"><img alt="FullStack Web Dev" align="left" src="images/FullStack_Web_Dev.png"/>&nbsp;</td>
+
+<td colspan="3"><b>Python for Full Stack Web Developers - Turning Ideas into a Product</b>
+  <br><br>
+For beginners and intermediate levels, we will cover all aspects of a web development project, without coding! Our sessions will go over technical and non-technical skill sets, such as writing a technical specification, creating product requirements, technical project management, building communication with designers, engineers, and product managers, and taking the ideas and concepts laid out by designers and turning them into real, live, and fully-functioning websites.
+<br><br>
+<em>- By Katerina Hanson</em></td>
+</tr>
 
 <!-- Android Backend Development -->
 <tr>
@@ -42,17 +52,15 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
 
 <td colspan="3"><b>Beginner’s Guide to Python Backend Development for Mobile Products Series</b>
   <br><br>
-Join us for our Beginner’s Guide to Python Backend Development for Mobile Products series!  
-
-For beginners and intermediate levels, we will cover all aspects of a mobile app development project, and build a mobile app together! Our sessions will go over essential knowledge for your developer toolkit, such as information architecture and workflow, data storytelling for end-users, setting up your developer environment tools, best practices and tips for design, accessibility, performance, security, debugging, and popular app stores and platforms.
+For beginners and intermediate levels, we will cover an Introduction to Mobile Development with Python, Frameworks, Best Practices, App stores and platforms, Setting up the Development Environment and Tools, and more.
 <br><br>
-<em>- By Elaine Chan</em></td>
+<em>- By Ren</em></td>
 </tr>
 
 <!-- Resume Booster -->
 <tr>
 
-<td style="border: none;" align="left" width="20%"><a href=""><img alt="Resume Booster" align="left" src="images/resume_booster.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/elainechan01/traffic-log"><img alt="Resume Booster" align="left" src="images/resume_booster.png"/>&nbsp;</td>
 
 <td colspan="3"><b>Build Python Projects For A Resume Booster</b>
   <br><br>
