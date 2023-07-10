@@ -35,6 +35,8 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
 <td colspan="4"><h3><br><em>Click on a logo below to view the associated repo -- where you can review, copy, or clone the repo's content. Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+
+
 <!-- FullStack Web Dev -->
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/katerina7479/wwc_fs_web_dev"><img alt="FullStack Web Dev" align="left" src="images/FullStack_Web_Dev.png"/>&nbsp;</td>
@@ -66,9 +68,15 @@ For beginners and intermediate levels, we will cover an Introduction to Mobile D
   <br><br>
 Join us for our workshop series on building Python projects for your resume! For entry levels and beginners, we will cover resume and interviewing tips, and build Python projects together in front end/ web development, data analytics, and cloud development.  
 
-This hands-on workshop will guide you in building potential resume python projects on web development, data analytics, and cloud development. As we lay out the path to boosting your resume effectively, we invite you to join us on this journey.
-<br><br>
-<em>- By Elaine Chan</em></td>
+This hands-on workshop will guide you in building potential resume python projects on web development, data analytics, and cloud development. As we lay out the path to boosting your resume effectively, we invite you to join us on this journey.  
+ 
+Project List:  
+
+* [Traffic Log](https://github.com/elainechan01/traffic-log)  
+* [Expense Tracker](https://github.com/chethanagopinath/expense-tracker)  
+* [Sales Insight Project](https://github.com/Mansi452/Sales_Insight_Project)  
+
+<em>- By Elaine Chan, Mansi, Chethana</em></td>
 </tr>
 
 <!-- Regex study group -->
