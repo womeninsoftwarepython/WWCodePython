@@ -46,6 +46,18 @@ For beginners and intermediate levels, we will cover all aspects of a web develo
 <em>- By Katerina Hanson</em></td>
 </tr>
 
+
+<!-- FullStack Web Dev -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/katerina7479/wwc_fs_web_dev"><img alt="FullStack Web Dev" align="left" src="images/FullStack_Web_Dev.png"/>&nbsp;</td>
+
+<td colspan="3"><b>Python for Full Stack Web Developers - Turning Ideas into a Product</b>
+  <br><br>
+For beginners and intermediate levels, we will cover all aspects of a web development project, without coding! Our sessions will go over technical and non-technical skill sets, such as writing a technical specification, creating product requirements, technical project management, building communication with designers, engineers, and product managers, and taking the ideas and concepts laid out by designers and turning them into real, live, and fully-functioning websites.
+<br><br>
+<em>- By Katerina Hanson</em></td>
+</tr>
+
 <!-- Android Backend Development -->
 <tr>
 <td style="border: none;" align="left" width="20%"><a href=""><img alt="Android Backend Development" align="left" src="images/android_backend_dev.png"/>&nbsp;</td>
@@ -66,9 +78,15 @@ For beginners and intermediate levels, we will cover an Introduction to Mobile D
   <br><br>
 Join us for our workshop series on building Python projects for your resume! For entry levels and beginners, we will cover resume and interviewing tips, and build Python projects together in front end/ web development, data analytics, and cloud development.  
 
-This hands-on workshop will guide you in building potential resume python projects on web development, data analytics, and cloud development. As we lay out the path to boosting your resume effectively, we invite you to join us on this journey.
-<br><br>
-<em>- By Elaine Chan</em></td>
+This hands-on workshop will guide you in building potential resume python projects on web development, data analytics, and cloud development. As we lay out the path to boosting your resume effectively, we invite you to join us on this journey.  
+ 
+Project List:  
+
+* [Traffic Log](https://github.com/elainechan01/traffic-log)  
+* [Expense Tracker](https://github.com/chethanagopinath/expense-tracker)  
+* [Sales Insight Project](https://github.com/Mansi452/Sales_Insight_Project)  
+
+<em>- By Elaine Chan, Mansi, Chethana</em></td>
 </tr>
 
 <!-- Regex study group -->

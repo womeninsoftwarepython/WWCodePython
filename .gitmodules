@@ -43,3 +43,6 @@
 [submodule "wwcode_pyton_ide_series"]
 	path = wwcode_pyton_ide_series
 	url = https://github.com/jessicakoubi/wwcode_pyton_ide_series.git
+[submodule "WWCodePython_BeginnerSeries"]
+	path = WWCodePython_BeginnerSeries
+	url = https://github.com/nuageklow/WWCodePython_BeginnerSeries.git
