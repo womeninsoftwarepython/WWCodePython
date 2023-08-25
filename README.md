@@ -37,9 +37,20 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
 
 
 
+<!-- Data Engineering Interview -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/amalphonse/WWCodeDEInterviewSeries"><img alt="Data Engineering Interview" align="left" src="images/dataenginterview.png"/>&nbsp;</td>
+
+<td colspan="3"><b>Data Engineering Interview</b>
+  <br><br>
+ Data Engineering Workshop material
+<br><br>
+<em>- By Anju Mercian</em></td>
+</tr>
+
 <!-- FullStack Web Dev -->
 <tr>
-<td style="border: none;" align="left" width="20%"><a href="https://github.com/katerina7479/wwc_fs_web_dev"><img alt="FullStack Web Dev" align="left" src="images/FullStack_Web_Dev.png"/>&nbsp;</td>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/katerina7479/wwc_fs_web_dev"><img alt="FullStack Web Dev" align="left" src="images/fullstack_webdev.png"/>&nbsp;</td>
 
 <td colspan="3"><b>Python for Full Stack Web Developers - Turning Ideas into a Product</b>
   <br><br>
