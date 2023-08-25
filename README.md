@@ -58,6 +58,29 @@ For beginners and intermediate levels, we will cover all aspects of a web develo
 <em>- By Katerina Hanson</em></td>
 </tr>
 
+
+<!-- Data Engineering Interview -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/amalphonse/WWCodeDEInterviewSeries"><img alt="Data Engineering Interview" align="left" src="images/dataenginterview.png"/>&nbsp;</td>
+
+<td colspan="3"><b>Data Engineering Interview</b>
+  <br><br>
+ Data Engineering Workshop material
+<br><br>
+<em>- By Anju Mercian</em></td>
+</tr>
+
+<!-- FullStack Web Dev -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/katerina7479/wwc_fs_web_dev"><img alt="FullStack Web Dev" align="left" src="images/fullstack_webdev.png"/>&nbsp;</td>
+
+<td colspan="3"><b>Python for Full Stack Web Developers - Turning Ideas into a Product</b>
+  <br><br>
+For beginners and intermediate levels, we will cover all aspects of a web development project, without coding! Our sessions will go over technical and non-technical skill sets, such as writing a technical specification, creating product requirements, technical project management, building communication with designers, engineers, and product managers, and taking the ideas and concepts laid out by designers and turning them into real, live, and fully-functioning websites.
+<br><br>
+<em>- By Katerina Hanson</em></td>
+</tr>
+
 <!-- Android Backend Development -->
 <tr>
 <td style="border: none;" align="left" width="20%"><a href=""><img alt="Android Backend Development" align="left" src="images/android_backend_dev.png"/>&nbsp;</td>
