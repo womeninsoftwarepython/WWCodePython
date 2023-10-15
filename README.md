@@ -35,6 +35,7 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
 <td colspan="4"><h3><br><em>Click on a logo below to view the associated repo -- where you can review, copy, or clone the repo's content. Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+
 <!-- OOP -->
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePy_OOP"><img alt="OOP with Python" align="left" src="images/oop_python.png"/>&nbsp;</td>
@@ -44,6 +45,18 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
  We'll explore the core principles of Object-Oriented Programming using Python, featuring live coding demonstrations and Q&A sessions, helping you enhance your Python proficiency.
 <br><br>
 <em>- By Karen Wong, Rajarshi Roy, Soumya Vemuri</em></td>
+
+
+<!-- FullStack Web Dev -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/katerina7479/wwc_fs_web_dev"><img alt="FullStack Web Dev" align="left" src="images/FullStack_Web_Dev.png"/>&nbsp;</td>
+
+<td colspan="3"><b>Python for Full Stack Web Developers - Turning Ideas into a Product</b>
+  <br><br>
+For beginners and intermediate levels, we will cover all aspects of a web development project, without coding! Our sessions will go over technical and non-technical skill sets, such as writing a technical specification, creating product requirements, technical project management, building communication with designers, engineers, and product managers, and taking the ideas and concepts laid out by designers and turning them into real, live, and fully-functioning websites.
+<br><br>
+<em>- By Katerina Hanson</em></td>
+
 </tr>
 
 
