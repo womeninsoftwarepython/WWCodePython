@@ -35,6 +35,16 @@ To add new resources for events, please follow the [CONTRIBUTING guidelines](Con
 <td colspan="4"><h3><br><em>Click on a logo below to view the associated repo -- where you can review, copy, or clone the repo's content. Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+<!-- OOP -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePy_OOP"><img alt="OOP with Python" align="left" src="images/oop_python.png"/>&nbsp;</td>
+
+<td colspan="3"><b>Object-Oriented Programming with Python</b>
+  <br><br>
+ We'll explore the core principles of Object-Oriented Programming using Python, featuring live coding demonstrations and Q&A sessions, helping you enhance your Python proficiency.
+<br><br>
+<em>- By Karen Wong, Rajarshi Roy, Soumya Vemuri</em></td>
+</tr>
 
 
 <!-- Data Engineering Interview -->
