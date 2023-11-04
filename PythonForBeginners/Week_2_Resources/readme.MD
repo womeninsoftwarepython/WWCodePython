@@ -18,7 +18,7 @@ Reviewing the Previous Week
 * QnA
 
 ## Links
-* [Link to Slides](/Week_2_Resources/Week%202_%20Reviewing%20Module%201.pdf)
+* [Link to Slides](https://github.com/WomenWhoCode/WWCodePython/blob/master/PythonForBeginners/Week_2_Resources/Week%202_%20Reviewing%20Module%201.pdf)
 
 ## Week 2 Assignment
 Complete the following small bites of Module 2:
