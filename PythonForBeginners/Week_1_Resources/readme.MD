@@ -15,7 +15,7 @@
 * [Link to Python Institute](https://pythoninstitute.org)
 * [Link to Python Essentials Part-1 ](https://edube.org/study/pe1)
 * [Install Python](https://www.python.org/downloads/)
-* [Link to Slides](/Week_1_Resources/Week%201_%20Introduction.pdf)
+* [Link to Slides](https://github.com/WomenWhoCode/WWCodePython/blob/master/PythonForBeginners/Week_1_Resources/Week%201_%20Introduction.pdf)
 * Reference Material : [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ## Week 1 Assignment
