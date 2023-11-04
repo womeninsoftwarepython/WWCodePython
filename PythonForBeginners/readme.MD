@@ -1,8 +1,11 @@
 # Python For Beginners
 _We're meeting every Sunday for 12 weeks to go through the study material provided by Python Institute._
 
-[Link to Python Institute](https://pythoninstitute.org)
-[Link to Python Essentials Part-1 ](https://edube.org/study/pe1)
+-------------------------------------------------------------------------------
+
+## Useful Links
+* [Link to Python Institute](https://pythoninstitute.org)
+* [Link to Python Essentials Part-1 ](https://edube.org/study/pe1)
 
 -------------------------------------------------------------------------------
 
