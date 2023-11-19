@@ -15,6 +15,7 @@ Reviewing the Previous Week
 
 
 ## Week 5 Assignment
+Complete the following small bites of Module 3:
 * Comparision Operators
-* COnditional Execution
+* Conditional Execution
 
