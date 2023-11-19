@@ -13,3 +13,5 @@ _We're meeting every Sunday for 12 weeks to go through the study material provid
 * [Week 1: Introduction to the Course, Setting Up](https://github.com/WomenWhoCode/WWCodePython/tree/master/PythonForBeginners/Week_1_Resources)
 * [Week 2: Module 1 - Intro](https://github.com/WomenWhoCode/WWCodePython/tree/master/PythonForBeginners/Week_2_Resources)
 * [Week 3: Module 2 - print() and Python Literals](https://github.com/WomenWhoCode/WWCodePython/tree/master/PythonForBeginners/Week_3_Resources)
+* [Week 4: Module 2 - Arithmetic Operators and Variables](https://github.com/WomenWhoCode/WWCodePython/tree/master/PythonForBeginners/Week_4_Resources)
+* [Week 5: Module 2 - Input Function and Strings](https://github.com/WomenWhoCode/WWCodePython/tree/master/PythonForBeginners/Week_5_Resources)
