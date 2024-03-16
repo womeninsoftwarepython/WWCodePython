@@ -1,4 +1,4 @@
-<a href="https://www.womenwhocode.com"><img alt="Python Code Jam" align="left" src="PythonCodeJam/images/header.png"></a><br>
+<a href="https://www.womenwhocode.com"><img alt="Python Code Jam" align="left" src="images/header.png"></a><br>
 <br>
 &nbsp;&nbsp;&nbsp;
 <br>
