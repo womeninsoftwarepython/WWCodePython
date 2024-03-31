@@ -9,7 +9,7 @@ We gave a quick introduction on Big O Notation and solved the following challeng
 
 ## Links to resources
 
-> ### [Link to slides](add link here)
+> ### [Link to slides](https://docs.google.com/presentation/d/1A13MyTCunBbnumQ9TgIno-VXRoIlB2c10w3nz9X20m4/preview)
 
 > ### [Link to the Colab notebook](https://colab.research.google.com/drive/1-oRramH2oq7oJyLVDh0p4ia-RjkE1HMf?usp=sharing)
 
